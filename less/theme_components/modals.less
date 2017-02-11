@@ -1,0 +1,30 @@
+/*! -- Stack Modals -- */
+
+.modal-container .modal-content:not(.height--natural){
+	height: auto;
+	width: auto;
+}
+
+.modal-instance{
+	&:not(.block){
+		display: inline-block;
+	}
+}
+
+@media all and (min-width: 768px){
+	.modal-instance{
+		+span{
+			&:last-child{
+				display: inline-block;
+				margin-left: @base-line-height/2;
+			}
+		}
+	}
+}
+
+.modal-container{
+	.modal-content{
+		max-height: 95%;
+		overflow: visible;
+	}
+}

@@ -1,5 +1,5 @@
-# Ignore everything
-*
+# Ignore everything inside extras
+/extras
 
 # But not these files...
 !.gitignore
