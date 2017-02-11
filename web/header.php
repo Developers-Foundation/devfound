@@ -22,9 +22,7 @@
         <div class="row">
             <div class="col-md-1 col-sm-2 hidden-xs">
                 <div class="bar__module">
-                    <a href="index.php">
-                        <img class="logo logo-dark" alt="logo" src="img/logo-dark.png">
-                        <img class="logo logo-light" alt="logo" src="img/logo-light.png">
+                    <a href="index.php"> #PNG
                     </a>
                 </div>
                 <!--end module-->
