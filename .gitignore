@@ -11,7 +11,16 @@
 !footer.php
 !header.php
 
-# etc...
+# Folders
+!css/*
+!fonts/*
+!img/*
+!less/*
+!mail/*
+!variant/*
+!video/*
+
 
 # ...even if they are in subdirectories
 !*/
+
