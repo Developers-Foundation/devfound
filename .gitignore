@@ -1,26 +1,3 @@
-# Ignore everything inside extras
-/extras
-
-# But not these files...
-!.gitignore
-!index.php
-!index2.php
-!organizations.php
-!students.php
-!students2.php
-!footer.php
-!header.php
-
-# Folders
-!css/*
-!fonts/*
-!img/*
-!less/*
-!mail/*
-!variant/*
-!video/*
-
-
-# ...even if they are in subdirectories
-!*/
-
+#nothing to ignore now
+.gitignore
+.idea/workspace.xml
