@@ -93,4 +93,34 @@
         <!--end of container-->
     </section>
 
+
+
+
+    <li class="active"><div class="tab__content">
+            <section class="text-center unpad--bottom switchable cta cta-3 bg--secondary">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-6 col-md-7">
+                            <div class="switchable__text">
+                                <h2>Join Our Team</h2>
+                                <p class="lead">
+                                    Unleash your creativity and energy on things that matter.
+                                </p>
+                                <a class="btn btn--primary type--uppercase" href="https://themeforest.net/item/stack-multipurpose-html-with-page-builder/19337626?ref=medium_rare">
+                                                    <span class="btn__text">
+                                                        Apply
+                                                    </span>
+
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-5">
+                            <img alt="Image" class="block" src="img/avatar-large-1.png">
+                        </div>
+                    </div>
+                    <!--end of row-->
+                </div>
+                <!--end of container-->
+            </section>
+        </div></li>
 </div>
