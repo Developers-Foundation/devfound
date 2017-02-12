@@ -49,7 +49,7 @@
                         <div class="process-2">
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Agree on your product's vision
+                                    <h5>Agree on your product vision
                                         <br> </h5>
                                     <p>
                                         Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
@@ -58,8 +58,8 @@
                             </div>
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Succsessfully funded through
-                                        <br> Bray Investments</h5>
+                                    <h5>Begin building your product
+                                        <br></h5>
                                     <p>
                                         Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
                                     </p>
@@ -67,8 +67,8 @@
                             </div>
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Posted profit
-                                        <br> second quarter 2015</h5>
+                                    <h5>Prototype feedback
+                                        <br></h5>
                                     <p>
                                         Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
                                     </p>
@@ -76,8 +76,8 @@
                             </div>
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Posted profit
-                                        <br> second quarter 2015</h5>
+                                    <h5>Launch product
+                                        <br> </h5>
                                     <p>
                                         Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
                                     </p>

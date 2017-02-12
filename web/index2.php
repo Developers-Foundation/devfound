@@ -15,7 +15,7 @@
                 <div class="modal-instance block">
                     <div class="video-play-icon video-play-icon--sm modal-trigger" data-modal-index="0"></div>
                     <span>
-                                        <strong>See Stack in action</strong>&nbsp;&nbsp;&nbsp;104 Seconds</span>
+                                        <strong>See us in action</strong>&nbsp;&nbsp;&nbsp;104 Seconds</span>
 
                     <!--end of modal-container-->
                 </div>
@@ -134,7 +134,7 @@
             </div></li>
     </ul>
 </div>
-<!-- PORTFOLIO -->
+<!-- PORTFOLIO TITLE -->
 <section class="text-center">
     <div class="container">
         <div class="row">
@@ -149,6 +149,8 @@
     </div>
     <!--end of container-->
 </section>
+
+<!-- PORTFOLIO GRID-->
 <section>
 
     <div class="container">
@@ -224,7 +226,11 @@
     </div>
     <!--end of container-->
 </section>
-<!-- Testimonials-->
+
+
+
+
+<!-- TESTIMONIALS-->
 <div class="tabs-container text-center" data-content-align="left">
 
     <ul class="tabs-content">
@@ -232,13 +238,32 @@
         <li class="active"><div class="tab__content">
                 <section class="text-center bg--secondary">
                     <div class="container">
+
+
+
+                        <!-- TESTIMONIALS TITLE-->
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                                    <h2>Testimonials</h2>
+                                    <br>
+                                </div>
+                            </div>
+                            <!--end of row-->
+                        </div>
+
+
+
+
+
+
                         <div class="row">
                             <div class="col-md-8 col-sm-10">
                                 <div class="slider" data-paging="true" data-children="3">
                                     <ul class="slides flickity-enabled is-draggable" tabindex="0">
 
 
-                                        <div class="flickity-viewport" style="height: 172.52px;"><div class="flickity-slider" style="left: 0px; transform: translateX(-100%);"><li class="slide" style="position: absolute; left: 0%;">
+                                        <div class="flickity-viewport" style="height: 0.52px;"><div class="flickity-slider" style="left: 0px; transform: translateX(-100%);"><li class="slide" style="position: absolute; left: 0%;">
                                                     <div class="testimonial">
                                                         <blockquote>
                                                             “There's a feeling of structure that you can't find in other templates — Stack has become my default template.”
