@@ -8,59 +8,39 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-6 col-md-3 col-xs-6">
-                                <h6 class="type--uppercase">Company</h6>
+                                <h6 class="type--uppercase">Organizations</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#">About Company</a>
+                                        <a href="#">Services</a>
                                     </li>
                                     <li>
-                                        <a href="#">Our Team</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Locations</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">History</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Work With Us</a>
+                                        <a href="#">Apply</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="col-sm-6 col-md-3 col-xs-6">
-                                <h6 class="type--uppercase">Developers</h6>
+                                <h6 class="type--uppercase">Students</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#">Developer Center</a>
+                                        <a href="#"> </a>
                                     </li>
                                     <li>
-                                        <a href="#">API Reference</a>
+                                        <a href="#"> </a>
                                     </li>
                                     <li>
-                                        <a href="#">Downloads</a>
+                                        <a href="#">Student Blog</a>
                                     </li>
-                                    <li>
-                                        <a href="#">Tools</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Developer Blog</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Developer Forums</a>
-                                    </li>
+
                                 </ul>
                             </div>
                             <div class="col-sm-6 col-md-3 col-xs-6">
-                                <h6 class="type--uppercase">Support</h6>
+                                <h6 class="type--uppercase">About Us</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#">Help Center</a>
+                                        <a href="#">Values</a>
                                     </li>
                                     <li>
-                                        <a href="#">Live Chat</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Downloads</a>
+                                        <a href="#">Team</a>
                                     </li>
                                     <li>
                                         <a href="#">Press Kit</a>
@@ -71,16 +51,13 @@
                                 <h6 class="type--uppercase">Locations</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#">Melbourne</a>
+                                        <a href="https://toronto.developersfoundation.ca">Toronto</a>
                                     </li>
                                     <li>
-                                        <a href="#">London</a>
+                                        <a href="https://western.developersfoundation.ca">London</a>
                                     </li>
                                     <li>
-                                        <a href="#">New York</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">San Francisco</a>
+                                        <a href="https://queens.developersfoundation.ca">Kingston</a>
                                     </li>
                                 </ul>
                             </div>
@@ -89,7 +66,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                             <span class="type--fine-print">©
-                                                <span class="update-year">2017</span> Stack Inc.</span>
+                                                <span class="update-year">2017</span> Developers' Foundation</span>
                                 <a class="type--fine-print" href="#">Privacy Policy</a>
                                 <a class="type--fine-print" href="#">Legal</a>
                             </div>
@@ -97,22 +74,17 @@
                                 <ul class="social-list list-inline list--hover">
                                     <li>
                                         <a href="#">
-                                            <i class="socicon socicon-google icon icon--xs"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
-                                            <i class="socicon socicon-twitter icon icon--xs"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="#">
                                             <i class="socicon socicon-facebook icon icon--xs"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="#">
-                                            <i class="socicon socicon-instagram icon icon--xs"></i>
+                                            <i class="socicon socicon-medium icon icon--xs"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="#">
+                                            <i class="socicon socicon-github icon icon--xs"></i>
                                         </a>
                                     </li>
                                 </ul>
