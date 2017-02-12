@@ -42,6 +42,10 @@
                             <a href="students.php">Students</a>
                             <!--end dropdown container-->
                         </li>
+                        <li class="dropdown">
+                            <a href="contact.php">Contact</a>
+                            <!--end dropdown container-->
+                        </li>
 
                     </ul>
                 </div>
