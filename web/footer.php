@@ -25,7 +25,7 @@
                                         <a href="#"> </a>
                                     </li>
                                     <li>
-                                        <a href="#"> </a>
+                                        <a href="career.php">Careers</a>
                                     </li>
                                     <li>
                                         <a href="#">Student Blog</a>

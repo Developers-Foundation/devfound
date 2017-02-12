@@ -51,7 +51,7 @@
                 </div>
                 <!--end module-->
                 <div class="bar__module">
-                    <a class="btn btn--sm type--uppercase" href="#">
+                    <a class="btn btn--sm type--uppercase" href="career.php">
                                     <span class="btn__text">
                                         Join
                                     </span>
