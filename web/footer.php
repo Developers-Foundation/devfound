@@ -73,17 +73,17 @@
                             <div class="col-sm-6 text-right text-left-xs">
                                 <ul class="social-list list-inline list--hover">
                                     <li>
-                                        <a href="#">
+                                        <a href="https://www.facebook.com/developersfoundation/">
                                             <i class="socicon socicon-facebook icon icon--xs"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://medium.com/@DevFound/">
                                             <i class="socicon socicon-medium icon icon--xs"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="#">
+                                        <a href="https://github.com/Developers-Foundation/">
                                             <i class="socicon socicon-github icon icon--xs"></i>
                                         </a>
                                     </li>
