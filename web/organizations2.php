@@ -49,8 +49,8 @@
                         <div class="process-2">
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Company established 2012
-                                        <br> 4 founding members</h5>
+                                    <h5>Agree on your product's vision
+                                        <br> </h5>
                                     <p>
                                         Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
                                     </p>
