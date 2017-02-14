@@ -22,7 +22,7 @@
                                 <h6 class="type--uppercase">Students</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#"> </a>
+                                        <a href="#"> Membership </a>
                                     </li>
                                     <li>
                                         <a href="career.php">Careers</a>
@@ -41,6 +41,9 @@
                                     </li>
                                     <li>
                                         <a href="#">Team</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Mentors</a>
                                     </li>
                                     <li>
                                         <a href="#">Press Kit</a>
