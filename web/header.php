@@ -39,12 +39,12 @@
                                         <div class="dropdown__content col-md-2">
                                             <ul class="menu-vertical">
                                                    <li>
-                                                        <a href="page-careers.html">
+                                                        <a href="valuess.html">
                                                             About Us
                                                         </a>
                                                     </li>
                                                     <li>
-                                                        <a href="page-careers.html">
+                                                        <a href="values.php">
                                                             Values
                                                         </a>
                                                     </li>
