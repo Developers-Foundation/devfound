@@ -34,16 +34,10 @@
                                 </ul>
                             </div>
                             <div class="col-sm-6 col-md-3 col-xs-6">
-                                <h6 class="type--uppercase">About Us</h6>
+                                <h6 class="type--uppercase">Developers' <br> Foundation</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#">Values</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Team</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Mentors</a>
+                                        <a href="#">About</a>
                                     </li>
                                     <li>
                                         <a href="#">Press Kit</a>

@@ -31,45 +31,11 @@
                 <div class="bar__module">
                     <ul class="menu-horizontal text-left">
 
-                        <li class="dropdown">
-                            <span class="dropdown__trigger">About</span>
-                            <div class="dropdown__container">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="dropdown__content col-md-2">
-                                            <ul class="menu-vertical">
-                                                   <li>
-                                                        <a href="valuess.html">
-                                                            About Us
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="values.php">
-                                                            Values
-                                                        </a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="page-careers.html">
-                                                            Team
-                                                        </a>
-                                                     </li>
-                                                    <li>
-                                                        <a href="page-careers.html">
-                                                            Mentors
-                                                        </a>
-                                                    </li>
-                                                    <!--end dropdown container-->
 
-                                            </ul>
-                                        </div>
-                                        <!--end dropdown content-->
-                                    </div>
-                                    <!--end row-->
-                                </div>
-                            </div>
+                        <li class="dropdown">
+                            <a href="about.php">About</a>
                             <!--end dropdown container-->
                         </li>
-
 
                         <li class="dropdown">
                             <a href="organizations.php">Organizations</a>
