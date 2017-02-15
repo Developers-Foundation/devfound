@@ -8,6 +8,17 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-sm-6 col-md-3 col-xs-6">
+                                <h6 class="type--uppercase">Developers' <br> Foundation</h6>
+                                <ul class="list--hover">
+                                    <li>
+                                        <a href="#">About</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Press Kit</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="col-sm-6 col-md-3 col-xs-6">
                                 <h6 class="type--uppercase">Organizations</h6>
                                 <ul class="list--hover">
                                     <li>
@@ -31,17 +42,6 @@
                                         <a href="#">Student Blog</a>
                                     </li>
 
-                                </ul>
-                            </div>
-                            <div class="col-sm-6 col-md-3 col-xs-6">
-                                <h6 class="type--uppercase">Developers' <br> Foundation</h6>
-                                <ul class="list--hover">
-                                    <li>
-                                        <a href="#">About</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Press Kit</a>
-                                    </li>
                                 </ul>
                             </div>
                             <div class="col-sm-6 col-md-3 col-xs-6">
