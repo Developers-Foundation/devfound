@@ -107,7 +107,7 @@
                     <div class="feature feature-1 boxed boxed--border">
                         <h5>Software Developer</h5>
                         <p>
-                            Western, Queen's & Toronto
+                            Western, Queen's, Toronto & HQ
                         </p>
                         <a href="#">
                             View &amp; Apply
@@ -117,7 +117,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <h5>VP Operations</h5>
+                        <h5>Operations</h5>
                         <p>
                             Western, Queen's & Toronto
                         </p>
@@ -129,9 +129,21 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <h5>VP Finance</h5>
+                        <h5> Finance</h5>
                         <p>
-                            Western
+                            Western & HQ
+                        </p>
+                        <a href="#">
+                            View &amp; Apply
+                        </a>
+                    </div>
+                    <!--end feature-->
+                </div>
+                <div class="col-sm-4">
+                    <div class="feature feature-1 boxed boxed--border">
+                        <h5> Marketing</h5>
+                        <p>
+                            Western, Queen's, Toronto & HQ
                         </p>
                         <a href="#">
                             View &amp; Apply
