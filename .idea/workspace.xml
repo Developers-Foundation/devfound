@@ -29,11 +29,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="tpm2.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="tpm2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/careers/tpm2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
+            <state relative-caret-position="270">
+              <caret line="30" column="73" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="73" />
               <folding>
                 <element signature="n#div#0;n#section#3;n#div#0;n#!!top" expanded="false" />
               </folding>
@@ -44,18 +44,8 @@
       <file leaf-file-name="careers2.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/careers2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="career.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/career.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <state relative-caret-position="565">
+              <caret line="200" column="6" selection-start-line="200" selection-start-column="6" selection-end-line="200" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -143,12 +133,12 @@
         <option value="$PROJECT_DIR$/web/careers/designer.php" />
         <option value="$PROJECT_DIR$/web/careers/marketing.php" />
         <option value="$PROJECT_DIR$/web/careers/tpm.php" />
-        <option value="$PROJECT_DIR$/web/careers/tpm2.php" />
         <option value="$PROJECT_DIR$/web/careers/designer2.php" />
         <option value="$PROJECT_DIR$/web/careers/developers2.php" />
         <option value="$PROJECT_DIR$/web/careers/finance2.php" />
         <option value="$PROJECT_DIR$/web/careers/marketing2.php" />
         <option value="$PROJECT_DIR$/web/careers2.php" />
+        <option value="$PROJECT_DIR$/web/careers/tpm2.php" />
       </list>
     </option>
   </component>
@@ -224,6 +214,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stack 1.1.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Stack 1.1.1" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -323,12 +331,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486816911051</updated>
-      <workItem from="1486816912793" duration="39519000" />
+      <workItem from="1486816912793" duration="40557000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39519000" />
+    <option name="totallyTimeSpent" value="40557000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="143" y="23" width="1206" height="834" extended-state="0" />
@@ -630,14 +638,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="228" column="16" selection-start-line="228" selection-start-column="16" selection-end-line="228" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/extras/page-about-company.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -809,29 +809,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/careers/tpm2.php">
+    <entry file="file://$PROJECT_DIR$/web/career.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="35" column="45" selection-start-line="35" selection-start-column="45" selection-end-line="35" selection-end-column="45" />
-          <folding>
-            <element signature="n#div#0;n#section#3;n#div#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/careers2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="175" column="0" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
+        <state relative-caret-position="565">
+          <caret line="200" column="6" selection-start-line="200" selection-start-column="6" selection-end-line="200" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/career.php">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        <state relative-caret-position="195">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/careers/tpm2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="30" column="73" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="73" />
+          <folding>
+            <element signature="n#div#0;n#section#3;n#div#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
