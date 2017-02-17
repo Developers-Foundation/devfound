@@ -32,8 +32,8 @@
       <file leaf-file-name="tpm2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/careers/tpm2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="30" column="73" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="73" />
+            <state relative-caret-position="172">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding>
                 <element signature="n#div#0;n#section#3;n#div#0;n#!!top" expanded="false" />
               </folding>
@@ -331,12 +331,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1486816911051</updated>
-      <workItem from="1486816912793" duration="40557000" />
+      <workItem from="1486816912793" duration="41049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40557000" />
+    <option name="totallyTimeSpent" value="41049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="143" y="23" width="1206" height="834" extended-state="0" />
@@ -835,8 +835,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/careers/tpm2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="30" column="73" selection-start-line="30" selection-start-column="69" selection-end-line="30" selection-end-column="73" />
+        <state relative-caret-position="172">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
           <folding>
             <element signature="n#div#0;n#section#3;n#div#0;n#!!top" expanded="false" />
           </folding>

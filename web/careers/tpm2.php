@@ -28,7 +28,9 @@
                     <p>
                         Developers’ Foundation is looking for a passionate and talented product manager that wants to lead the product team and create amazing things. You enjoy seeing other people grow and know that a team is stronger than every individual. You have a drive to help and inspire those around you.                    </p>
                     <p>
-                        A typical TPM week can include a phone call (some don’t have internet!) with a charity in an inaccessible remote village and working with the product team to define the vision, strategy and design.                </div>
+                        A typical TPM week can include a phone call (some don’t have internet!) with a charity in an inaccessible remote village and working with the product team on the product or defining the vision, strategy or design.
+                    </p>
+                </div>
 
                 <div class="col-sm-4 col-md-4">
                     <div class="text-block">
