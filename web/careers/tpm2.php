@@ -32,6 +32,7 @@
                         Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
                     </p>
                 </div>
+
                 <div class="col-sm-4 col-md-3">
                     <div class="text-block">
                         <h5>Responsibilities</h5>
@@ -67,7 +68,7 @@
                     <div class="cta">
                         <h2>Sound like the job for you?</h2>
                         <p class="lead">
-                            Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
+                            Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our team.
                         </p>
                         <a class="btn btn--primary type--uppercase" href="#">
                                     <span class="btn__text">
@@ -89,12 +90,11 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <span class="label">Fulltime</span>
-                        <h5>Front-end Designer</h5>
+                        <h5>Software Developer</h5>
                         <p>
-                            Melbourne, AU
+                            Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="#">
+                        <a href="developer.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -102,24 +102,12 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <span class="label bg--primary-2">Remote</span>
-                        <h5>Art Director</h5>
+
+                        <h5>Product Designer</h5>
                         <p>
-                            San Francisco, USA
+                            Western, Queen's & Toronto
                         </p>
-                        <a href="#">
-                            View &amp; Apply
-                        </a>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
-                        <h5>Senior Interface Designer</h5>
-                        <p>
-                            Toronto, CA
-                        </p>
-                        <a href="#">
+                        <a href="designer.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -130,52 +118,4 @@
         </div>
         <!--end of container-->
     </section>
-    <footer class="footer-3 text-center-xs space--xs ">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-6">
-                    <img alt="Image" class="logo" src="img/logo-dark.png" />
-                    <ul class="list-inline list--hover">
-                        <li>
-                            <a href="#">
-                                <span class="type--fine-print">Get Started</span>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <span class="type--fine-print">help@stack.io</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-sm-6 text-right text-center-xs">
-                    <ul class="social-list list-inline list--hover">
-                        <li>
-                            <a href="#">
-                                <i class="socicon socicon-google icon icon--xs"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="socicon socicon-twitter icon icon--xs"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="socicon socicon-facebook icon icon--xs"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#">
-                                <i class="socicon socicon-instagram icon icon--xs"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-            <!--end of row-->
-
-        </div>
-        <!--end of container-->
-    </footer>
 </div>

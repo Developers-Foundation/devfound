@@ -13,6 +13,8 @@
         </div>
         <!--end of container-->
     </section>
+
+
     <section class="switchable bg--secondary">
         <div class="container">
             <div class="row">
@@ -85,7 +87,7 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <a href="careers/designer.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -97,7 +99,7 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <a href="careers/tpm.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -109,7 +111,7 @@
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="#">
+                        <a href="careers/developer.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -133,7 +135,7 @@
                         <p>
                             Western & HQ
                         </p>
-                        <a href="#">
+                        <a href="careers/finance.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -145,7 +147,7 @@
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="#">
+                        <a href="careers/marketing.php">
                             View &amp; Apply
                         </a>
                     </div>
