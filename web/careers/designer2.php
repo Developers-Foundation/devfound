@@ -33,7 +33,7 @@
                     </p>
                 </div>
 
-                <div class="col-sm-4 col-md-3">
+                <div class="col-sm-4 col-md-4">
                     <div class="text-block">
                         <h5>Responsibilities</h5>
                         <ul class="bullets">

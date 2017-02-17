@@ -24,7 +24,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-md-7">
-                    <h4>We need an experienced full-stack problem solver</h4>
+                    <h4> </h4>
                     <p>
                         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
                     </p>
@@ -33,27 +33,24 @@
                     </p>
                 </div>
 
-                <div class="col-sm-4 col-md-3">
+                <div class="col-sm-4 col-md-4">
                     <div class="text-block">
                         <h5>Responsibilities</h5>
                         <ul class="bullets">
-                            <li>Reporting to Project Manager</li>
-                            <li>Converting designs to code</li>
-                            <li>Writing SEO performant code</li>
-                            <li>Integrating React / Angular</li>
+                            <li> Lead products from conception to completion </li>
+                            <li> Understand client and product requirements </li>
+                            <li>Constantly ask "why" to solve the right problems</li>
+                            <li> Define a product vision and strategy </li>
+                            <li> Coordinate with designers, engineers and marketing </li>
                         </ul>
                     </div>
                     <div class="text-block">
                         <h5>Experience</h5>
-                        <p>
-                            Ideally 2 &mdash; 4 years experience in an agency environment working in mult-tiered teams
-                        </p>
-                    </div>
-                    <div class="text-block">
-                        <h5>Employment Terms</h5>
-                        <p>
-                            Full time, on site at our HQ in Melbourne, AU
-                        </p>
+                        <ul class="bullets">
+                            <li> Leadership experience </li>
+                            <li> HTML, CSS and JS </li>
+                        </ul>
+
                     </div>
                 </div>
             </div>
