@@ -25,11 +25,12 @@
             <div class="row">
                 <div class="col-sm-8 col-md-7">
                     <h4> </h4>
-                    <p>
-                        Developers’ Foundation is looking for a passionate and talented product manager that wants to lead the product team and create amazing things. You enjoy seeing other people grow and know that a team is stronger than every individual. You have a drive to help and inspire those around you.                    </p>
-                    <p>
+                    <h4>
+                        Developers’ Foundation is looking for a passionate and talented product manager that wants to lead the product team and create amazing things. You enjoy seeing other people grow and know that a team is stronger than every individual. You have a drive to help and inspire those around you.
+                    </h4>
+                    <h4>
                         A typical TPM week can include a phone call (some don’t have internet!) with a charity in an inaccessible remote village and working with the product team on the product or defining the vision, strategy or design.
-                    </p>
+                    </h4>
                 </div>
 
                 <div class="col-sm-4 col-md-4">

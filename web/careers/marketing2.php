@@ -24,30 +24,44 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-md-7">
-                    <h4>We need an experienced full-stack problem solver</h4>
-                    <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-                    </p>
-                    <p>
-                        Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-                    </p>
+
+                    <h4>
+                        Are you passionate about humanitarian outreach and empowering charities?
+                        Are you a creative mind with a knack for analytics and leadership skills?
+                        We're looking for enthusiastic, driven candidates to join our marketing team
+                        and help us tell our story, the students' and the charities'.
+                    </h4>
+                    <h4>
+                        As part of Developer's Foundation marketing squad,
+                        you will get to be part of shaping our brand,
+                        creating meaningful connections with appropriate audiences,
+                        as well as planning and developing marketing strategies for an everchanging enviromnet.
+                    </h4>
                 </div>
 
                 <div class="col-sm-4 col-md-4">
                     <div class="text-block">
                         <h5>Responsibilities</h5>
                         <ul class="bullets">
-                            <li>Reporting to Project Manager</li>
-                            <li>Converting designs to code</li>
-                            <li>Writing SEO performant code</li>
-                            <li>Integrating React / Angular</li>
+                            <li>Public relations activities with media outlets</li>
+                            <li>Design and produce creative visuals through film, images and graphics</li>
+                            <li>Development and implementation of marketing strategies</li>
+                            <li>Assure the consistent communication of brand image</li>
+                            <li>Brainstorm and plan new, meaningful ways to use communication outlets</li>
+                            <li>Monitor and analyze short-term and long-term progress and success of marketing activities</li>
                         </ul>
                     </div>
                     <div class="text-block">
                         <h5>Experience</h5>
-                        <p>
-                            Ideally 2 &mdash; 4 years experience in an agency environment working in mult-tiered teams
-                        </p>
+                        <li>
+                            Currently enrolled in a marketing/communications program(or similar).
+                        </li>
+                        <li>
+                            Previous marketing experience is a bonus.
+                        </li>
+                        <li>
+                            Photography, videography and editing skills is a bonus.
+                        </li>
                     </div>
                     <div class="text-block">
                         <h5>Employment Terms</h5>
