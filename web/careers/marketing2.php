@@ -63,12 +63,6 @@
                             Photography, videography and editing skills is a bonus.
                         </li>
                     </div>
-                    <div class="text-block">
-                        <h5>Employment Terms</h5>
-                        <p>
-                            Full time, on site at our HQ in Melbourne, AU
-                        </p>
-                    </div>
                 </div>
             </div>
             <!--end of row-->
@@ -105,11 +99,12 @@
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
                         <span class="label">Fulltime</span>
-                        <h5>Front-end Designer</h5>
+                        <h5>Finance</h5>
                         <p>
-                            Melbourne, AU
+                            Western, Queen's & Toronto
+
                         </p>
-                        <a href="#">
+                        <a href="tpm.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -130,11 +125,11 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <h5>Senior Interface Designer</h5>
+                        <h5>Product Designer</h5>
                         <p>
-                            Toronto, CA
+                            Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <a href="designer.php">
                             View &amp; Apply
                         </a>
                     </div>
