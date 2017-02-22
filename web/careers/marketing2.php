@@ -98,7 +98,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <span class="label">Fulltime</span>
+
                         <h5>Finance</h5>
                         <p>
                             Western, Queen's & Toronto
@@ -112,7 +112,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <span class="label bg--primary-2">Remote</span>
+
                         <h5>Art Director</h5>
                         <p>
                             San Francisco, USA

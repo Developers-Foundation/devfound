@@ -65,8 +65,8 @@
       <file leaf-file-name="marketing2.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/careers/marketing2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="135" column="33" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+            <state relative-caret-position="127">
+              <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -352,12 +352,12 @@
       <option name="presentableId" value="Default" />
       <updated>1486816911051</updated>
       <workItem from="1486816912793" duration="42315000" />
-      <workItem from="1487730323004" duration="1154000" />
+      <workItem from="1487730323004" duration="1398000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43469000" />
+    <option name="totallyTimeSpent" value="43713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="153" y="23" width="1206" height="834" extended-state="0" />
@@ -681,8 +681,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/careers/marketing2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="135" column="33" selection-start-line="135" selection-start-column="33" selection-end-line="135" selection-end-column="33" />
+        <state relative-caret-position="127">
+          <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
           <folding />
         </state>
       </provider>
