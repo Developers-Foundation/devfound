@@ -112,19 +112,6 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-
-                        <h5>Art Director</h5>
-                        <p>
-                            San Francisco, USA
-                        </p>
-                        <a href="#">
-                            View &amp; Apply
-                        </a>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
                         <h5>Product Designer</h5>
                         <p>
                             Western, Queen's & Toronto
