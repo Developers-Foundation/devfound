@@ -106,7 +106,7 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="feature feature-5 boxed boxed--lg boxed--border">
-                            <i class="icon icon-Fingerprint icon--lg"></i>
+                            <i class="icon  icon-Air-Balloon icon--lg"></i>
                             <div class="feature__body">
                                 <h5>Education & Experience</h5>
                                 <p>
