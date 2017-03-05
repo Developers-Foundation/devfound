@@ -1,8 +1,8 @@
 <!-- COVER -->
 <div class="main-container">
     <section class="text-center imagebg space--lg" data-overlay="3">
-        <div class="background-image-holder" style="background: url(&quot;img/landing-21.jpg&quot;); opacity: 1;">
-            <img alt="background" src="img/landing-21.jpg">
+        <div class="background-image-holder" style="background: url(&quot;img/students.jpg&quot;); opacity: 1;">
+            <img alt="background" src="img/students.jpg">
         </div>
         <div class="container">
             <div class="row">
