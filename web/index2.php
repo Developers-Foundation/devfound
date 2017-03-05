@@ -23,7 +23,7 @@
             <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
                 <h2>Launch your organization to success</h2>
                 <p class="lead">
-                    Whether you’re building schools for children or scaling your organization across the country, technology can solve to your biggest aches.
+                    Whether you’re building schools for children or scaling your organization across the country, technology can solve your biggest aches.
                 </p>
             </div>
         </div>
@@ -96,12 +96,12 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-5 col-sm-7">
-                        <h2>Stack is design-driven</h2>
+                        <h2> Build relationships across borders</h2>
                         <p class="lead">
-                            Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront. Elements have been designed to showcase content in a diverse yet consistent manner.
+                            We discovered building relationships with the communities we connect and help,
                         </p>
                         <p class="lead">
-                            Multiple font and colour scheme options mean that dramatically altering the look of your site is just clicks away — Customizing your site in the included Variant Page Builder makes experimenting with styles and content arrangements dead simple.
+                            content arrangements dead simple.
                         </p>
                     </div>
                 </div>

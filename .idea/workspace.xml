@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f041f19c-a0de-42f1-9920-97dd6b76cd82" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/organizations2.php" afterPath="$PROJECT_DIR$/web/organizations2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/contact2.php" afterPath="$PROJECT_DIR$/web/contact2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/index2.php" afterPath="$PROJECT_DIR$/web/index2.php" />
     </list>
     <ignored path="Stack 1.1.1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -42,21 +43,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="organizations2.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/organizations2.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="65" column="72" selection-start-line="65" selection-start-column="72" selection-end-line="65" selection-end-column="72" />
+            <state relative-caret-position="45">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/about2.php">
+      <file leaf-file-name="index2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+            <state relative-caret-position="172">
+              <caret line="98" column="43" selection-start-line="98" selection-start-column="43" selection-end-line="98" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact2.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/contact2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="147" selection-start-line="2" selection-start-column="147" selection-end-line="2" selection-end-column="147" />
               <folding />
             </state>
           </provider>
@@ -118,11 +129,11 @@
         <option value="$PROJECT_DIR$/web/careers/finance2.php" />
         <option value="$PROJECT_DIR$/web/careers/developers2.php" />
         <option value="$PROJECT_DIR$/web/careers/marketing2.php" />
-        <option value="$PROJECT_DIR$/web/contact2.php" />
-        <option value="$PROJECT_DIR$/web/index2.php" />
         <option value="$PROJECT_DIR$/web/about2.php" />
         <option value="$PROJECT_DIR$/web/students2.php" />
         <option value="$PROJECT_DIR$/web/organizations2.php" />
+        <option value="$PROJECT_DIR$/web/index2.php" />
+        <option value="$PROJECT_DIR$/web/contact2.php" />
       </list>
     </option>
   </component>
@@ -137,7 +148,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="226" />
+    <option name="x" value="91" />
     <option name="y" value="23" />
     <option name="width" value="1427" />
     <option name="height" value="834" />
@@ -289,15 +300,15 @@
       <workItem from="1486816912793" duration="42315000" />
       <workItem from="1487730323004" duration="2399000" />
       <workItem from="1488461652343" duration="522000" />
-      <workItem from="1488722991738" duration="9755000" />
+      <workItem from="1488722991738" duration="10429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54991000" />
+    <option name="totallyTimeSpent" value="55665000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="226" y="23" width="1427" height="834" extended-state="0" />
+    <frame x="91" y="23" width="1427" height="834" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20649819" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -578,52 +589,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="120" column="45" selection-start-line="120" selection-start-column="45" selection-end-line="120" selection-end-column="45" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-72">
           <caret line="27" column="46" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/contact2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/students.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/about2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -640,8 +609,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/organizations2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="65" column="72" selection-start-line="65" selection-start-column="72" selection-end-line="65" selection-end-column="72" />
+        <state relative-caret-position="225">
+          <caret line="61" column="38" selection-start-line="61" selection-start-column="38" selection-end-line="61" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/about2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/students.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="98" column="43" selection-start-line="98" selection-start-column="43" selection-end-line="98" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/contact2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="147" selection-start-line="2" selection-start-column="147" selection-end-line="2" selection-end-column="147" />
           <folding />
         </state>
       </provider>
