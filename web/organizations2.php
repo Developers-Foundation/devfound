@@ -49,38 +49,30 @@
                         <div class="process-2">
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Agree on your product vision
-                                        <br> </h5>
-                                    <p>
-                                        Agree on your product's vision
-                                    </p>
+                                    <h3>Agree on your product vision
+                                        <br> </h3>
+
                                 </div>
                             </div>
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Begin building your product
-                                        <br></h5>
-                                    <p>
-                                        Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-                                    </p>
+                                    <h3>Product design
+                                        <br></h3>
+
                                 </div>
                             </div>
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Prototype feedback
-                                        <br></h5>
-                                    <p>
-                                        Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-                                    </p>
+                                    <h3>Product development & prototype
+                                        <br></h3>
+
                                 </div>
                             </div>
                             <div class="col-sm-3">
                                 <div class="process__item">
-                                    <h5>Launch product
-                                        <br> </h5>
-                                    <p>
-                                        Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
-                                    </p>
+                                    <h3>Launch product
+                                        <br> </h3>
+
                                 </div>
                             </div>
                         </div>
