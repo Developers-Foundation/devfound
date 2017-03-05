@@ -42,9 +42,8 @@
                     <div class="mt--2">
                         <h2>Mentorship</h2>
                         <p class="lead">
-                            Launching an attractive and scalable website quickly and afforadably is important for modern startups — Stack offers massive value without looking 'bargain-bin'.
-                        </p>
-                        <a href="#">Enquire Now »</a>
+                            Our mentorship program provides students with a tremendous opportunity for growth. Our programs are
+                        tailored to your skills.</p>
                     </div>
                 </div>
             </div>
@@ -62,9 +61,7 @@
                     <div class="mt--2">
                         <h2>Global Citizenship</h2>
                         <p class="lead">
-                            Launching an attractive and scalable website quickly and afforadably is important for modern startups — Stack offers massive value without looking 'bargain-bin'.
-                        </p>
-                        <a href="#">Enquire Now »</a>
+                            We envision inspiring students identifying with emerging world communities and whose actions contribute to building community values and practices.                        </p>
                     </div>
                 </div>
             </div>
@@ -82,9 +79,10 @@
                     <div class="mt--2">
                         <h2>Experience</h2>
                         <p class="lead">
-                            Launching an attractive and scalable website quickly and afforadably is important for modern startups — Stack offers massive value without looking 'bargain-bin'.
+                            Incredible people working together encourages risk taking and increases learning. We care about the
+                            learning environment students have
                         </p>
-                        <a href="#">Enquire Now »</a>
+
                     </div>
                 </div>
             </div>

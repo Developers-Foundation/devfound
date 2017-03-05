@@ -126,9 +126,9 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                <h2>Built on passion and ingenuity</h2>
+                <h2>Mission Statement</h2>
                 <p class="lead">
-                    Medium Rare is an elite author known for offering high-quality, high-value products backed by timely and personable support. Recognised and awarded by Envato on multiple occasions for producing consistently outstanding products, it's no wonder over 20,000 customers enjoy using Medium Rare templates.
+                    We build technologies that create change in communities while exposing students to humanitarian engineering and providing them with industry experience.
                 </p>
             </div>
         </div>
@@ -143,10 +143,10 @@
                 <div class="slider border--round" data-arrows="true" data-paging="true">
                     <ul class="slides">
                         <li>
-                            <img alt="Image" src="img/gallery-1.jpg" />
+                            <img alt="Image" src="img/about1.jpg" />
                         </li>
                         <li>
-                            <img alt="Image" src="img/cowork-1.jpg" />
+                            <img alt="Image" src="img/about2.jpg" />
                         </li>
                         <li>
                             <img alt="Image" src="img/cowork-5.jpg" />
