@@ -79,8 +79,8 @@
                     <div class="mt--2">
                         <h2>Experience</h2>
                         <p class="lead">
-                            Incredible people working together encourages risk taking and increases learning. We care about the
-                            learning environment students have
+                            A supportive culture encourages students to take risk and our advance our collective learning. We
+                            care about the culture equally as we do with our work and partners.
                         </p>
 
                     </div>
