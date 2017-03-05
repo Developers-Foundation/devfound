@@ -12,15 +12,12 @@
                     <div class="row switchable__text">
                         <p class="lead">
                             E:
-                            <a href="#">hello@stack.net</a>
-                            <br /> P: +613 4827 2294
+                            <a href="#">hello@developersfoundation.ca</a>
                         </p>
                         <p class="lead">
-                            Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days.
+                            Shoot us an email with your questions! We watch our mailbox when in between our breaks.
                         </p>
-                        <p class="lead">
-                            We are open from 9am &mdash; 5pm week days.
-                        </p>
+
                         <hr class="short">
                         <div class="row">
                             <form class="form-email" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly.">

@@ -113,7 +113,7 @@
                             </div>
                         </div>
                         <div class="col-sm-6 col-md-5">
-                            <img alt="Image" class="block" src="img/avatar-large-1.png">
+                            <img alt="Image" class="block" src="img/christina.jpg">
                         </div>
                     </div>
                     <!--end of row-->
