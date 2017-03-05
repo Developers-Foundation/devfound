@@ -20,6 +20,23 @@
 
 
 
+<section class="text-center">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
+                <h2>Mission Statement</h2>
+                <p class="lead">
+                    We build technologies that create change in communities while exposing students to humanitarian engineering and providing them with industry experience.
+                </p>
+            </div>
+        </div>
+        <!--end of row-->
+    </div>
+    <!--end of container-->
+</section>
+
+
+
 
 
 
@@ -30,7 +47,7 @@
 
 
 <!-- NEW VALUES -->
-<li class="active"><div class="tab__content">
+<li class="active"><div class="tab__content bg--secondary">
         <section class=" " style=" padding-bottom: 0px; padding-top: 0px;">
             <div class="container">
 
@@ -119,46 +136,6 @@
 
 
 
-
-
-
-<section class="text-center bg--secondary">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2">
-                <h2>Mission Statement</h2>
-                <p class="lead">
-                    We build technologies that create change in communities while exposing students to humanitarian engineering and providing them with industry experience.
-                </p>
-            </div>
-        </div>
-        <!--end of row-->
-    </div>
-    <!--end of container-->
-</section>
-<section class="text-center g--secondary">
-    <div class="container">
-        <div class="row">
-            <div class="col-sm-11">
-                <div class="slider border--round" data-arrows="true" data-paging="true">
-                    <ul class="slides">
-                        <li>
-                            <img alt="Image" src="img/about1.jpg" />
-                        </li>
-                        <li>
-                            <img alt="Image" src="img/about2.jpg" />
-                        </li>
-                        <li>
-                            <img alt="Image" src="img/cowork-5.jpg" />
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <!--end of row-->
-    </div>
-    <!--end of container-->
-</section>
 
 
 

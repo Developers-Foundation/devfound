@@ -120,7 +120,8 @@
                     <div class="col-sm-10 col-md-8">
                         <h2>Get involved</h2>
                         <p class="lead">
-                            Stack's visual style is simple yet distinct, making it an ideal starting point for your project whether it be a basic marketing site, or multi-page company presence.
+                            Are you a charity in need of technology to scale your impact? Are you a student looking to join?
+                            Find out more about student careers and partnership below!
                         </p>
 
 
@@ -128,7 +129,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="feature">
-                                    <a class="btn btn--primary" href="#">
+                                    <a class="btn btn--primary" href="organizations.php">
                                         <span class="btn__text">Charities</span>
                                     </a>
                             </div>
@@ -137,7 +138,7 @@
                             <div class="col-sm-6">
                                 <div class="feature">
 
-                                    <a class="btn btn--primary" href="#">
+                                    <a class="btn btn--primary" href="students.php">
                                         <span class="btn__text">Students</span>
                                     </a>
                                 </div>

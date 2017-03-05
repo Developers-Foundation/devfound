@@ -52,7 +52,7 @@
                                     <h5>Agree on your product vision
                                         <br> </h5>
                                     <p>
-                                        Stack is built with customization and ease-of-use at its core — whether you're a seasoned developer or just starting out, you'll be making attractive sites faster than any traditional HTML template.
+                                        Agree on your product's vision
                                     </p>
                                 </div>
                             </div>
