@@ -113,8 +113,7 @@
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
                             <h2>Design</h2>
                             <p class="lead">
-                                Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront.
-                            </p>
+                                A passion for simplicity and restless imaginations enables our creative product designers to articulate your values effectively to your market.
                         </div>
                     </div>
                 </div>
@@ -135,7 +134,7 @@
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
                             <h2>Build</h2>
                             <p class="lead">
-                                Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront.
+                                We craft the product to your organization's needs, ensuring it solves your challenges and scales your impact.
                             </p>
                         </div>
                     </div>
@@ -156,7 +155,7 @@
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
                             <h2>Empower</h2>
                             <p class="lead">
-                                We work with every partner in .
+                                We have an knack for perfection. After launching your product, we will make sure
                             </p>
                         </div>
                     </div>

@@ -25,7 +25,7 @@
                         <a href="#">hello@developersfoundation.ca</a>
                     </p>
                     <p class="lead">
-                        Shoot us an email with your questions! We watch our mailbox when in between our breaks.
+                        Shoot us an email with your questions! We have hired mailbox parrots to ensure quick replies.
                     </p>
                 </div>
                 <div class="col-sm-6 col-xs-12">
