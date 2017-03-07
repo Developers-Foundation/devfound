@@ -155,7 +155,7 @@
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
                             <h2>Empower</h2>
                             <p class="lead">
-                                We have an knack for perfection. After launching your product, we will make sure
+                                Every great organization has a story. We want to be part of your story and help you shape your future.
                             </p>
                         </div>
                     </div>
@@ -165,6 +165,7 @@
         </div>
         <!--end of container-->
     </section>
+
     <section class="text-center ">
         <div class="container">
             <div class="row">
