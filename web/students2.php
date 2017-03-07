@@ -36,7 +36,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img alt="Image" class="border--round box-shadow-wide" src="img/education-1.jpg">
+                    <img alt="Image" class="border--round box-shadow-wide" src="img/mentorship.jpg">
                 </div>
                 <div class="col-sm-6 col-md-5">
                     <div class="mt--2">
@@ -55,7 +55,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-6">
-                    <img alt="Image" class="border--round box-shadow-wide" src="img/inner-5.jpg">
+                    <img alt="Image" class="border--round box-shadow-wide" src="img/global_citizenship.jpg">
                 </div>
                 <div class="col-sm-6 col-md-5">
                     <div class="mt--2">

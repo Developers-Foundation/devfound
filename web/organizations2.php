@@ -107,8 +107,8 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="height-50 imagebg border--round box-shadow-wide" data-overlay="4">
-                        <div class="background-image-holder" style="background: url(&quot;img/education-1.jpg&quot;); opacity: 1;">
-                            <img alt="background" src="img/education-1.jpg">
+                        <div class="background-image-holder" style="background: url(&quot;img/design.jpeg&quot;); opacity: 1;">
+                            <img alt="background" src="img/design.jpeg">
                         </div>
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
                             <h2>Design</h2>
@@ -129,8 +129,8 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="height-50 imagebg border--round box-shadow-wide" data-overlay="4">
-                        <div class="background-image-holder" style="background: url(&quot;img/inner-5.jpg&quot;); opacity: 1;">
-                            <img alt="background" src="img/inner-5.jpg">
+                        <div class="background-image-holder" style="background: url(&quot;img/org-build.jpg&quot;); opacity: 1;">
+                            <img alt="background" src="img/org-build.jpg">
                         </div>
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
                             <h2>Build</h2>
@@ -150,11 +150,11 @@
             <div class="row">
                 <div class="col-sm-12">
                     <div class="height-50 imagebg border--round box-shadow-wide" data-overlay="3">
-                        <div class="background-image-holder" style="background: url(&quot;img/inner-6.jpg&quot;); opacity: 1;">
-                            <img alt="background" src="img/inner-6.jpg">
+                        <div class="background-image-holder" style="background: url(&quot;img/support.jpeg&quot;); opacity: 1;">
+                            <img alt="background" src="img/support.jpeg">
                         </div>
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
-                            <h2>Support</h2>
+                            <h2>Empower</h2>
                             <p class="lead">
                                 We work with every partner in .
                             </p>
