@@ -91,9 +91,9 @@
         <div class="container pos-vertical-center">
             <div class="row">
                 <div class="col-sm-8">
-                    <h1>Full-service Design &amp; Development</h1>
+                    <h1>Design &amp; Development</h1>
                     <p class="lead">
-                        From a team of passionate creators working side-by-side with our partners to deliver engaging digital and physical campaigns.
+                        From a team of passionate creators working side-by-side with your partners to deliver engaging technology solutions.
                     </p>
                 </div>
             </div>
@@ -101,6 +101,7 @@
         </div>
         <!--end of container-->
     </section>
+
     <section class="switchable switchable--switch">
         <div class="container">
             <div class="row">
@@ -122,6 +123,7 @@
         </div>
         <!--end of container-->
     </section>
+
     <section class="switchable switchable--switch">
         <div class="container">
             <div class="row">
@@ -154,7 +156,7 @@
                         <div class="pos-vertical-center col-sm-6 boxed boxed--lg bg--none">
                             <h2>Support</h2>
                             <p class="lead">
-                                Stack offers a clean and contemporary to suit a range of purposes from corporate, tech startup, marketing site to digital storefront.
+                                We work with every partner in .
                             </p>
                         </div>
                     </div>
@@ -169,9 +171,9 @@
             <div class="row">
                 <div class="col-sm-8 col-md-6">
                     <div class="cta">
-                        <h2>Purchase Stack now and get lifetime free content updates</h2>
+                        <h2>Partner with us</h2>
                         <p class="lead">
-                            Each purchase of Stack comes with six months free support — and a lifetime of free content and bug-fix updates.
+                            We are looking for charities that technology solutions to scale your impact.
                         </p>
                         <a class="btn btn--primary type--uppercase" href="#">
                                     <span class="btn__text">

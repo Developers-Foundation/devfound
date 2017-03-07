@@ -93,32 +93,30 @@
 
 
 
+    <div class="tab__content">
+        <section class="text-center ">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-md-6">
+                        <div class="cta">
+                            <h2>Join Our Team</h2>
+                            <p class="lead">
+                                Unleash your creativity and energy on things that matter.
 
-    <li class="active"><div class="tab__content">
-            <section class="text-center unpad--bottom switchable cta cta-3 bg--secondary">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-6 col-md-7">
-                            <div class="switchable__text">
-                                <h2>Join Our Team</h2>
-                                <p class="lead">
-                                    Unleash your creativity and energy on things that matter.
-                                </p>
-                                <a class="btn btn--primary type--uppercase" href="https://themeforest.net/item/stack-multipurpose-html-with-page-builder/19337626?ref=medium_rare">
+                            </p>
+                            <a class="btn btn--primary type--uppercase" href="career.php">
                                                     <span class="btn__text">
-                                                        Apply
+                                                        Careers
                                                     </span>
 
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-5">
-                            <img alt="Image" class="block" src="img/christina.jpg">
+                            </a>
                         </div>
                     </div>
-                    <!--end of row-->
                 </div>
-                <!--end of container-->
-            </section>
-        </div></li>
+                <!--end of row-->
+            </div>
+            <!--end of container-->
+        </section>
+    </div>
+
 </div>

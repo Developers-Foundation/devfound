@@ -98,10 +98,12 @@
                     <div class="col-md-5 col-sm-7">
                         <h2> Build relationships across borders</h2>
                         <p class="lead">
-                            We discovered building relationships with the communities we connect and help,
+                            Empower charities and inspiring social entrepreneurs to scale their impact to the next level.
+
                         </p>
                         <p class="lead">
-                            content arrangements dead simple.
+                            To craft the perfect product, we believe it's important to experience the community you are working with.
+                            At Developers' Foundation we take our relationships and commitments with all partners very seriously.
                         </p>
                     </div>
                 </div>
