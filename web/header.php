@@ -56,12 +56,12 @@
                 </div>
                 <!--end module-->
                 <div class="bar__module">
-                    <a class="btn btn--sm type--uppercase" href="career.php">
+                    <a class="btn btn--sm type--uppercase" target="_blank" href="career.php">
                                     <span class="btn__text">
                                         Join
                                     </span>
                     </a>
-                    <a class="btn btn--sm btn--primary type--uppercase" href="https://docs.google.com/forms/d/e/1FAIpQLScZ1PLOXP0cxEuzHZWWwyk3uxGU0_RQo3-dKu5ggwhj6FSWtA/viewform">
+                    <a class="btn btn--sm btn--primary type--uppercase" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScZ1PLOXP0cxEuzHZWWwyk3uxGU0_RQo3-dKu5ggwhj6FSWtA/viewform">
                                     <span class="btn__text">
                                         Apply
                                     </span>

@@ -120,25 +120,6 @@
     </section>
 
 
-    <section class="text-center ">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3">
-                    <div class="cta">
-                        <h2>We're always looking for talent</h2>
-                        <p class="lead">
-                            Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
-                        </p>
-                        <a class="btn btn--primary type--uppercase" href="#">
-                                    <span class="btn__text">
-                                        Drop your resumé here
-                                    </span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <!--end of row-->
-        </div>
-        <!--end of container-->
-    </section>
+
+
 </div>

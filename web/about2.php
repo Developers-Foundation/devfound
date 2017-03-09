@@ -135,7 +135,7 @@
                     <div class="cta">
                         <h2>Interest in working with us?</h2>
                         <p class="lead">
-                            Join us in empowering lives and scaling social impact.
+                            Learn more about our current available positions.
 
                             </p>
                         <a class="btn btn--primary type--uppercase" href="career.php">
