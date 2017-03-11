@@ -20,7 +20,7 @@
 <nav id="menu-bar" class="bar bar--sm bar-1 hidden-xs hiddem-sm">
     <div class="container">
         <div class="row">
-            <div class="col-md-3 col-sm-2 col-xs-3">
+            <div class="col-md-2 col-sm-2 col-xs-3">
                 <div class="bar__module">
                     <a href="index">
                         <img class="logo logo-dark" alt="logo" src="img/logo.png" />
@@ -29,7 +29,7 @@
                 </div>
                 <!--end module-->
             </div>
-            <div class="col-md-9 col-sm-12 text-right text-left-xs text-left-sm">
+            <div class="col-md-10 col-sm-12 text-right text-left-xs text-left-sm">
                 <div class="bar__module">
                     <ul class="menu-horizontal text-left">
 
