@@ -45,7 +45,7 @@
                 <div class="bar__module">
                     <a href="index">
                         <img class="logo logo-dark" alt="logo" src="img/logo.png" />
-                        <img class="logo logo-light" alt="logo" src="img/logo.png" />
+
                     </a>
                 </div>
                 <!--end module-->
