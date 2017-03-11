@@ -16,7 +16,28 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:200,300,400,400i,500,600,700%7CMerriweather:300,300i%7CMaterial+Icons" rel="stylesheet">
 </head>
 <body>
+
 <!-- NAVBAR -->
+<div class="bar bar--sm visible-xs">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-3 col-sm-2">
+                <a href="index">
+                    <img class="logo logo-dark" alt="logo" src="img/logo.png">
+                    <img class="logo logo-light" alt="logo" src="img/logo.png">
+                </a>
+            </div>
+            <div class="col-xs-9 col-sm-10 text-right">
+                <a href="#" class="hamburger-toggle" data-toggle-class="#menu-bar;hidden-xs">
+                    <i class="icon icon--sm stack-interface stack-menu"></i>
+                </a>
+            </div>
+        </div>
+        <!--end of row-->
+    </div>
+    <!--end of container-->
+</div>
+
 <nav id="menu-bar" class="bar bar--sm bar-1 hidden-xs hiddem-sm">
     <div class="container">
         <div class="row">
