@@ -77,7 +77,7 @@
                 </div>
                 <!--end module-->
                 <div class="bar__module">
-                    <a class="btn btn--sm type--uppercase" target="_blank" href="career">
+                    <a class="btn btn--sm type--uppercase" href="career">
                                     <span class="btn__text">
                                         Join
                                     </span>
