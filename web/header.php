@@ -17,38 +17,38 @@
 </head>
 <body>
 <!-- NAVBAR -->
-<nav id="menu-bar" class="bar bar--sm bar-1 hidden-xs hiddem-sm ">
+<nav id="menu-bar" class="bar bar--sm bar-1 hidden-xs hiddem-sm">
     <div class="container">
         <div class="row">
-            <div class="col-md-1 col-sm-2 col-xs-3">
+            <div class="col-md-3 col-sm-2 col-xs-3">
                 <div class="bar__module">
-                    <a href="index.php">
+                    <a href="index">
                         <img class="logo logo-dark" alt="logo" src="img/logo.png" />
                         <img class="logo logo-light" alt="logo" src="img/logo.png" />
                     </a>
                 </div>
                 <!--end module-->
             </div>
-            <div class="col-md-11 col-sm-12 text-right text-left-xs text-left-sm">
+            <div class="col-md-9 col-sm-12 text-right text-left-xs text-left-sm">
                 <div class="bar__module">
                     <ul class="menu-horizontal text-left">
 
 
                         <li class="dropdown">
-                            <a href="about.php">About</a>
+                            <a href="about">About</a>
                             <!--end dropdown container-->
                         </li>
 
                         <li class="dropdown">
-                            <a href="organizations.php">Organizations</a>
+                            <a href="organizations">Organizations</a>
                             <!--end dropdown container-->
                         </li>
                         <li class="dropdown">
-                            <a href="students.php">Students</a>
+                            <a href="students">Students</a>
                             <!--end dropdown container-->
                         </li>
                         <li class="dropdown">
-                            <a href="contact.php">Contact</a>
+                            <a href="contact">Contact</a>
                             <!--end dropdown container-->
                         </li>
 
@@ -56,7 +56,7 @@
                 </div>
                 <!--end module-->
                 <div class="bar__module">
-                    <a class="btn btn--sm type--uppercase" target="_blank" href="career.php">
+                    <a class="btn btn--sm type--uppercase" target="_blank" href="career">
                                     <span class="btn__text">
                                         Join
                                     </span>

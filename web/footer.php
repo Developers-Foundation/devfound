@@ -11,7 +11,7 @@
                                 <h6 class="type--uppercase">Developers' <br> Foundation</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="about ">About</a>
+                                        <a href="about">About</a>
                                     </li>
                                     <li>
                                         <a href="#">Press Kit</a>
@@ -22,7 +22,7 @@
                                 <h6 class="type--uppercase">Organizations</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="organizations ">Services</a>
+                                        <a href="organizations">Services</a>
                                     </li>
                                     <li>
                                         <a href="#">Apply</a>
@@ -33,7 +33,7 @@
                                 <h6 class="type--uppercase">Students</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="students "> Membership </a>
+                                        <a href="students"> Membership </a>
                                     </li>
                                     <li>
                                         <a href="career ">Careers</a>
