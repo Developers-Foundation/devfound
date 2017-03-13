@@ -79,7 +79,7 @@
                             Got what it takes to work with us? Great! Apply to join our crazy team of innovators.
                         </p>
 
-                        <a class="btn btn--primary type--uppercase" href="apply">
+                        <a class="btn btn--primary type--uppercase" href="../apply">
                                     <span class="btn__text">
                                         Drop your resumé here
                                     </span>
