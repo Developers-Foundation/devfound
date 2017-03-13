@@ -48,6 +48,21 @@
                     <!--end feature-->
                 </div>
 
+                <div class="col-sm-4">
+                    <div class="feature feature-1 boxed boxed--border">
+                        <h5>Software Developer</h5>
+                        <p>
+                            Western, Queen's, Toronto & HQ
+                        </p>
+                        <h6>
+                            Coming Soon
+                        </h6>
+                    </div>
+                    <!--end feature-->
+                </div>
+
+
+
                 <!-- COMING SOON -->
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
@@ -56,34 +71,22 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <h6>
                             Coming Soon
-                        </a>
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>
 
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <h5>Software Developer</h5>
-                        <p>
-                            Western, Queen's, Toronto & HQ
-                        </p>
-                        <a href="careers/developer.php">
-                            View &amp; Apply
-                        </a>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
                         <h5>Operations</h5>
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <h6>
                             Coming Soon
-                        </a>
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>
@@ -93,9 +96,9 @@
                         <p>
                             Western & HQ
                         </p>
-                        <a href="#">
+                        <h6>
                             Coming Soon
-                        </a>
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>
@@ -105,9 +108,9 @@
                         <p>
                             HQ
                         </p>
-                        <a href="#">
+                        <h6>
                             Coming Soon
-                        </a>
+                        <h6>
                     </div>
                     <!--end feature-->
                 </div>
