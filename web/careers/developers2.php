@@ -25,29 +25,34 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-md-7">
-                    <h4>We need an experienced full-stack problem solver</h4>
                     <h4>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+                        Developers’ Foundation is looking for a software developer who is willing to learn and make a difference in their communities. You will be working with our product manager developing and implementing web solutions for our clients. These solutions can range from a simple website to one with a full server deployment and SEO integrations. We do not ask for highly technical capable individuals as we have workshops available, but your willingness to seek the knowledge in web is needed.
                     </h4>
                     <h4>
-                        Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+                        You will be involved in all stages of the product lifecycle starting at client acquisition stage to product development and product demonstration. Majority of our development teams consist of two or more developers and a product manager to manager, hence teamwork is crucial to a successful project.
                     </h4>
                 </div>
                 <div class="col-sm-4 col-md-4">
                     <div class="text-block">
                         <h5>Responsibilities</h5>
                         <ul class="bullets">
-                            <li>Reporting to Project Manager</li>
-                            <li>Converting designs to code</li>
-                            <li>Writing SEO performant code</li>
-                            <li>Integrating React / Angular</li>
+                        <li>Software design and innovation using technologies available</li>
+<li>Product development and implementation</li>
+<li>Coordination with design consultants</li>
+<li>Building the open source portfolio with VP tech of the chapters</li>
                         </ul>
                     </div>
                     <div class="text-block">
-                        <h5>Experience</h5>
-                        <p>
+                        <h5>Experience Preferred</h5>
+                        <ul class="bullets">
+                        <li>HTML, CSS and JS</li>
+<li>Git and Heroku is a great addition</li>
+<li>Working independently and in teams</li>
+<li>PHP and NodeJS will be beneficial</li>
+                        </ul>
+                        <!--<p>
                             Ideally 2 &mdash; 4 years experience in an agency environment working in mult-tiered teams
-                        </p>
+                        </p>-->
                     </div>
                     <div class="text-block">
                         <h5>Employment Terms</h5>
