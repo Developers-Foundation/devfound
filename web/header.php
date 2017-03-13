@@ -31,7 +31,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="img/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="img/favicon/favicon-16x16.png">
-    <link rel="manifest" href="/manifest.json">
+    <link rel="manifest" href="img/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
@@ -40,7 +40,8 @@
 
 
 
-<!-- GOOGLE ANALYTICS -->
+
+    <!-- GOOGLE ANALYTICS -->
     <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -83,6 +84,16 @@
 <nav id="menu-bar" class="bar bar--sm bar-1 hidden-xs hiddem-sm">
     <div class="container">
         <div class="row">
+            <div class="col-md-2 col-sm-2 col-xs-3">
+                <div class="bar__module">
+                    <a href="index">
+                        <img class="logo logo-dark" alt="logo" src="img/logo.png" />
+
+                    </a>
+                </div>
+                <!--end module-->
+            </div>
+
 
             <div class="col-md-10 col-sm-12 text-right text-left-xs text-left-sm">
                 <div class="bar__module">
