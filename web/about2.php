@@ -138,7 +138,7 @@
                             Learn more about our current available positions.
 
                             </p>
-                        <a class="btn btn--primary type--uppercase" href="career.php">
+                        <a class="btn btn--primary type--uppercase" href="career">
                                                     <span class="btn__text">
                                                         Careers
                                                     </span>
