@@ -25,7 +25,7 @@ $recipientName              = 'Legendary DevFouder';             // REQUIRED val
 
 // Email details            - Change these to suit your website needs
 $emailSubject               = 'CONTACT FORM MESSAGE'; // REQUIRED value. Subject of the email that the recipient will see
-$websiteName                = 'Your Website';                // REQUIRED value. This is used when a name or email is not collected from the website form
+$websiteName                = 'DevFound';                // REQUIRED value. This is used when a name or email is not collected from the website form
 
 $timeZone					= 'Canada/Toronto';         // OPTIONAL, but some servers require this to be set.
                                                              // See a list of all supported timezones at: http://php.net/manual/en/timezones.php
