@@ -131,7 +131,7 @@
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="feature">
-                                    <a class="btn btn--primary" href="organizations.php">
+                                    <a class="btn btn--primary" href="organizations">
                                         <span class="btn__text">Charities</span>
                                     </a>
                             </div>
@@ -140,7 +140,7 @@
                             <div class="col-sm-6">
                                 <div class="feature">
 
-                                    <a class="btn btn--primary" href="students.php">
+                                    <a class="btn btn--primary" href="students">
                                         <span class="btn__text">Students</span>
                                     </a>
                                 </div>

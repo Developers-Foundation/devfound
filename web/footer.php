@@ -13,9 +13,9 @@
                                     <li>
                                         <a href="about">About</a>
                                     </li>
-                                    <li>
-                                        <a href="#">Press Kit</a>
-                                    </li>
+<!--                                    <li>-->
+<!--                                        <a href="#">Press Kit</a>-->
+<!--                                    </li>-->
                                 </ul>
                             </div>
                             <div class="col-sm-6 col-md-3 col-xs-6">
@@ -25,7 +25,7 @@
                                         <a href="organizations">Services</a>
                                     </li>
                                     <li>
-                                        <a href="#">Apply</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScZ1PLOXP0cxEuzHZWWwyk3uxGU0_RQo3-dKu5ggwhj6FSWtA/viewform">Apply</a>
                                     </li>
                                 </ul>
                             </div>
@@ -38,9 +38,9 @@
                                     <li>
                                         <a href="career ">Careers</a>
                                     </li>
-                                    <li>
-                                        <a href="#">Student Blog</a>
-                                    </li>
+<!--                                    <li>-->
+<!--                                        <a href="#">Student Blog</a>-->
+<!--                                    </li>-->
 
                                 </ul>
                             </div>
@@ -64,8 +64,8 @@
                             <div class="col-sm-6">
                                             <span class="type--fine-print">©
                                                 <span class="update-year">2017</span> Developers' Foundation</span>
-                                <a class="type--fine-print" href="#">Privacy Policy</a>
-                                <a class="type--fine-print" href="#">Legal</a>
+<!--                                <a class="type--fine-print" href="#">Privacy Policy</a>-->
+<!--                                <a class="type--fine-print" href="#">Legal</a>-->
                             </div>
                             <div class="col-sm-6 text-right text-left-xs">
                                 <ul class="social-list list-inline list--hover">
