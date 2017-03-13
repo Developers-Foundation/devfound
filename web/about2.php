@@ -2,7 +2,7 @@
 <div class="main-container">
     <section class="text-center imagebg space--lg" data-overlay="3">
         <div class="background-image-holder" style="background: url(&quot;img/about_cover.jpg&quot;); opacity: 1;">
-            <img alt="background" src="img/about_cover.jpg.jpg">
+            <img alt="background" src="img/about_cover.jpg">
         </div>
         <div class="container">
             <div class="row">
