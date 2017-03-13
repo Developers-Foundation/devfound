@@ -61,36 +61,51 @@
 </head>
 <body>
 <!-- NAVBAR -->
-<nav id="menu-bar" class="bar bar--sm bar-1 hidden-xs hiddem-sm ">
+<!-- NAVBAR -->
+<div class="bar bar--sm visible-xs">
     <div class="container">
         <div class="row">
-            <div class="col-md-1 col-sm-2 hidden-xs">
-                <div class="bar__module">
-                    <a href="../index.php"> #PNG
-                    </a>
-                </div>
-                <!--end module-->
+            <div class="col-xs-3 col-sm-2">
+                <a href="index">
+                    <img class="logo logo-dark" alt="logo" src="../img/logo.png">
+
+                </a>
             </div>
-            <div class="col-md-11 col-sm-12 text-right text-left-xs text-left-sm">
+            <div class="col-xs-9 col-sm-10 text-right">
+                <a href="#" class="hamburger-toggle" data-toggle-class="#menu-bar;hidden-xs">
+                    <i class="icon icon--sm stack-interface stack-menu"></i>
+                </a>
+            </div>
+        </div>
+        <!--end of row-->
+    </div>
+    <!--end of container-->
+</div>
+
+<nav id="menu-bar" class="bar bar--sm bar-1 hidden-xs hiddem-sm">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-10 col-sm-12 text-right text-left-xs text-left-sm">
                 <div class="bar__module">
                     <ul class="menu-horizontal text-left">
 
 
                         <li class="dropdown">
-                            <a href="../about.php">About</a>
+                            <a href="../about">About</a>
                             <!--end dropdown container-->
                         </li>
 
                         <li class="dropdown">
-                            <a href="../organizations.php">Organizations</a>
+                            <a href="../organizations">Organizations</a>
                             <!--end dropdown container-->
                         </li>
                         <li class="dropdown">
-                            <a href="../students.php">Students</a>
+                            <a href="../students">Students</a>
                             <!--end dropdown container-->
                         </li>
                         <li class="dropdown">
-                            <a href="../contact.php">Contact</a>
+                            <a href="../contact">Contact</a>
                             <!--end dropdown container-->
                         </li>
 
@@ -103,7 +118,7 @@
                                         Join
                                     </span>
                     </a>
-                    <a class="btn btn--sm btn--primary type--uppercase" href="https://docs.google.com/forms/d/e/1FAIpQLScZ1PLOXP0cxEuzHZWWwyk3uxGU0_RQo3-dKu5ggwhj6FSWtA/viewform">
+                    <a class="btn btn--sm btn--primary type--uppercase" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScZ1PLOXP0cxEuzHZWWwyk3uxGU0_RQo3-dKu5ggwhj6FSWtA/viewform">
                                     <span class="btn__text">
                                         Apply
                                     </span>

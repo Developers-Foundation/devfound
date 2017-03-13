@@ -48,13 +48,13 @@
                                 <h6 class="type--uppercase">Locations</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="https://toronto.developersfoundation.ca">Toronto</a>
+                                        <a  target="_blank" href="https://toronto.developersfoundation.ca">Toronto</a>
                                     </li>
                                     <li>
-                                        <a href="https://western.developersfoundation.ca">London</a>
+                                        <a  target="_blank" href="https://western.developersfoundation.ca">London</a>
                                     </li>
                                     <li>
-                                        <a href="https://queens.developersfoundation.ca">Kingston</a>
+                                        <a  target="_blank" href="https://queens.developersfoundation.ca">Kingston</a>
                                     </li>
                                 </ul>
                             </div>
