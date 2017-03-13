@@ -76,9 +76,10 @@
                     <div class="cta">
                         <h2>Sound like the job for you?</h2>
                         <p class="lead">
-                            Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
+                            Got what it takes to work with us? Great! Apply to join our crazy team of innovators.
                         </p>
-                        <a class="btn btn--primary type--uppercase" href="#">
+
+                        <a class="btn btn--primary type--uppercase" href="apply">
                                     <span class="btn__text">
                                         Drop your resumé here
                                     </span>
@@ -104,9 +105,9 @@
                             Western, Queen's & Toronto
 
                         </p>
-                        <a href="tpm.php">
-                            View &amp; Apply
-                        </a>
+                        <h6>
+                            Coming Soon
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>
@@ -116,9 +117,9 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="designer.php">
-                            View &amp; Apply
-                        </a>
+                        <h6 >
+                            Coming Soon
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>

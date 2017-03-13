@@ -29,7 +29,7 @@
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="careers/marketing.php">
+                        <a href="careers/marketing">
                             View &amp; Apply
                         </a>
                     </div>
@@ -41,7 +41,7 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="careers/tpm.php">
+                        <a href="careers/tpm">
                             View &amp; Apply
                         </a>
                     </div>

@@ -67,7 +67,7 @@
                         <p class="lead">
                             Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our team.
                         </p>
-                        <a class="btn btn--primary type--uppercase" href="#">
+                        <a class="btn btn--primary type--uppercase" href="apply">
                                     <span class="btn__text">
                                         Drop your resumé here
                                     </span>
@@ -91,9 +91,9 @@
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="developer.php">
-                            View &amp; Apply
-                        </a>
+                        <h6>
+                            Coming Soon
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>
@@ -104,9 +104,9 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="designer.php">
-                            View &amp; Apply
-                        </a>
+                        <h6 >
+                            Coming Soon
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>
