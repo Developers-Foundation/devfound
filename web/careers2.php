@@ -25,12 +25,11 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-
-                        <h5>Product Designer</h5>
+                        <h5> Marketing</h5>
                         <p>
-                            Western, Queen's & Toronto
+                            Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="careers/designer.php">
+                        <a href="careers/marketing.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -48,6 +47,22 @@
                     </div>
                     <!--end feature-->
                 </div>
+
+                <!-- COMING SOON -->
+                <div class="col-sm-4">
+                    <div class="feature feature-1 boxed boxed--border">
+
+                        <h5>Product Designer</h5>
+                        <p>
+                            Western, Queen's & Toronto
+                        </p>
+                        <a href="#">
+                            Coming Soon
+                        </a>
+                    </div>
+                    <!--end feature-->
+                </div>
+
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
                         <h5>Software Developer</h5>
@@ -67,7 +82,7 @@
                             Western, Queen's & Toronto
                         </p>
                         <a href="#">
-                            View &amp; Apply
+                            Coming Soon
                         </a>
                     </div>
                     <!--end feature-->
@@ -78,32 +93,20 @@
                         <p>
                             Western & HQ
                         </p>
-                        <a href="careers/finance.php">
-                            View &amp; Apply
+                        <a href="#">
+                            Coming Soon
                         </a>
                     </div>
                     <!--end feature-->
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <h5> Marketing</h5>
-                        <p>
-                            Western, Queen's, Toronto & HQ
-                        </p>
-                        <a href="careers/marketing.php">
-                            View &amp; Apply
-                        </a>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
-                        <h5> Data Scientist</h5>
+                        <h5> Data Analyst</h5>
                         <p>
                             HQ
                         </p>
                         <a href="#">
-                            View &amp; Apply
+                            Coming Soon
                         </a>
                     </div>
                     <!--end feature-->
