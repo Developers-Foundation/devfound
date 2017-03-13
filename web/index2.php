@@ -16,6 +16,7 @@
     </div>
     <!--end of container-->
 </section>
+
 <!-- WHAT WE DO -->
 <section class="text-center">
     <div class="container">
