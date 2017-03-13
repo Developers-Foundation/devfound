@@ -67,7 +67,7 @@
                         <p class="lead">
                             Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our team.
                         </p>
-                        <a class="btn btn--primary type--uppercase" href="apply">
+                        <a class="btn btn--primary type--uppercase" href="../apply">
                                     <span class="btn__text">
                                         Drop your resumé here
                                     </span>
