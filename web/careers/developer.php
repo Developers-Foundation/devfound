@@ -32,7 +32,7 @@ include_once ("header.php");
                         Developers’ Foundation is looking for a software developer who is willing to learn and make a difference in their communities. You will be working with our product manager developing and implementing web solutions for our clients. These solutions can range from a simple website to one with a full server deployment and SEO integrations. We do not ask for highly technical capable individuals as we have workshops available, but your willingness to seek the knowledge in web is needed.
                     </h4>
                     <h4>
-                        You will be involved in all stages of the product lifecycle starting at client acquisition stage to product development and product demonstration. Majority of our development teams consist of two or more developers and a product manager to manager, hence teamwork is crucial to a successful project.
+                        You will be involved in all stages of the product lifecycle starting from client acquisition stage to product development and product launch. Majority of our development teams consist of two or more developers and a product manager, hence teamwork is crucial for the success of the product.
                     </h4>
                 </div>
                 <div class="col-sm-4 col-md-4">
@@ -99,11 +99,11 @@ include_once ("header.php");
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
                         <span class="label">Fulltime</span>
-                        <h5>Front-end Designer</h5>
+                        <h5>Technical Product Manager</h5>
                         <p>
-                            Melbourne, AU
+                            Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <a href="tpm.php">
                             View &amp; Apply
                         </a>
                     </div>
@@ -112,25 +112,13 @@ include_once ("header.php");
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
                         <span class="label bg--primary-2">Remote</span>
-                        <h5>Art Director</h5>
+                        <h5>Product Designer</h5>
                         <p>
-                            San Francisco, USA
+                            Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="#">
-                            View &amp; Apply
-                        </a>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
-                        <h5>Senior Interface Designer</h5>
-                        <p>
-                            Toronto, CA
-                        </p>
-                        <a href="#">
-                            View &amp; Apply
-                        </a>
+                        <h6>
+                            Coming Soon
+                        </h6>
                     </div>
                     <!--end feature-->
                 </div>

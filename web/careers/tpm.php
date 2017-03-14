@@ -107,7 +107,7 @@ include_once ("header.php");
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <h6 >
+                        <h6>
                             Coming Soon
                         </h6>
                     </div>
