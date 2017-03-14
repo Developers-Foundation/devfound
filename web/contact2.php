@@ -41,7 +41,7 @@
                             </div>
                             <div class="col-sm-12 col-xs-12">
                                 <label>Message:</label>
-                                <textarea rows="4" name="Message" class="validate-required"></textarea><grammarly-btn><div style="visibility: hidden; z-index: 2;" class="_e725ae-textarea_btn _e725ae-not_focused" data-grammarly-reactid=".0"><div class="_e725ae-transform_wrap" data-grammarly-reactid=".0.0"><div title="Protected by Grammarly" class="_e725ae-status" data-grammarly-reactid=".0.0.0">&nbsp;</div></div></div></grammarly-btn>
+                                <textarea rows="4" name="Message" class="validate-required message"></textarea><grammarly-btn><div style="visibility: hidden; z-index: 2;" class="_e725ae-textarea_btn _e725ae-not_focused" data-grammarly-reactid=".0"><div class="_e725ae-transform_wrap" data-grammarly-reactid=".0.0"><div title="Protected by Grammarly" class="_e725ae-status" data-grammarly-reactid=".0.0.0">&nbsp;</div></div></div></grammarly-btn>
                             </div>
                             <div class="col-sm-5 col-md-4 col-xs-6">
                                 <button type="submit" class="btn btn--primary type--uppercase">Send Enquiry</button>

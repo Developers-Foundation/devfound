@@ -660,7 +660,7 @@ mr = (function (mr, $, window, document){
 
             var emailField = thisForm.find('.email');
             var nameField = thisForm.find('.form-input-name');
-            var messageField = thisForm.find('.form-input-message');
+            var messageField = thisForm.find('.message');
 
             // Nob form
             var sendFrom = emailField.val(),
