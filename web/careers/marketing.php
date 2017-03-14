@@ -9,10 +9,10 @@ include_once ("header.php");
                     <h1>Marketing</h1>
                     <ol class="breadcrumbs">
                         <li>
-                            <a href="../index.php">Home</a>
+                            <a href="../">Home</a>
                         </li>
                         <li>
-                            <a href="../career.php">Careers</a>
+                            <a href="../career">Careers</a>
                         </li>
                         <li>Marketing</li>
                     </ol>
