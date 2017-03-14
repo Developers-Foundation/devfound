@@ -72,7 +72,7 @@ include_once ("header.php");
                         </p>
                         <a class="btn btn--primary type--uppercase" href="../apply">
                                     <span class="btn__text">
-                                        Drop your resumé here
+                                        Application
                                     </span>
                         </a>
                     </div>

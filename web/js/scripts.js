@@ -655,8 +655,77 @@ mr = (function (mr, $, window, document){
         formSuccess = body.find('.form-success');
         thisForm.addClass('attempted-submit');
 
+
+
+        if (thisForm.attr('data-form-type').indexOf("nob") > -1) {
+
+            var emailField = thisForm.find('.form-input-email');
+            var nameField = thisForm.find('.form-input-name');
+            var messageField = thisForm.find('.form-input-message');
+
+            // Nob form
+            var sendFrom = emailField.val(),
+                sendTo = "harrisonchowhk@yahoo.com",
+                subject = "Message from " + nameField.val(),
+                msg = messageField.val(),
+                msgHTML = "<p>" + messageField.val() + "<p>",
+                fromName = nameField.val(),
+                toName = "Nigerian Association of London and Area";
+
+            var sendData = JSON.stringify({
+                'sendFrom': sendFrom,
+                'fromName': fromName,
+                'sendTo': sendTo,
+                'toName': toName,
+                'subject': subject,
+                'msg': msg,
+                'msgHTML': msgHTML
+            });
+
+            $.ajax({
+                url: 'mail/nobmail.php',
+                crossDomain: false,
+                data: sendData,
+                method: "POST",
+                cache: false,
+                dataType: 'json',
+                contentType: 'application/json; charset=utf-8',
+                success: function (data) {
+                    // Deal with JSON
+                    console.log(data);
+                    var returnData = data;
+                    submitButton.removeClass("btn-primary");
+                    if (returnData.success) {
+                        // Throw success msg
+                        emailField.val("");
+                        nameField.val("");
+                        messageField.val("");
+                        submitButton.html("Received");
+                        submitButton.addClass("btn-success");
+                    } else {
+                        // Throw error message
+                        submitButton.html("Sorry an error occured");
+                        submitButton.addClass("btn-danger");
+                    }
+                    submitButton.prop("disabled", false);
+                },
+                error: function (error) {
+                    console.log(error);
+                    // Throw error message
+                    submitButton.html("Sorry an error occured");
+                    submitButton.removeClass("btn-primary");
+                    submitButton.addClass("btn-danger");
+                    submitButton.prop("disabled", false);
+                }
+            });
+        }
+
+
+
+
+
         // Do this if the form is intended to be submitted to MailChimp or Campaign Monitor
-        if (formAction.indexOf('createsend.com') !== -1 || formAction.indexOf('list-manage.com') !== -1 ) {
+        else if (formAction.indexOf('createsend.com') !== -1 || formAction.indexOf('list-manage.com') !== -1 ) {
 
             console.log('Mail list form signup detected.');
             if (typeof originalError !== typeof undefined && originalError !== false) {

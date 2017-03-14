@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-sm-6 col-xs-12">
                     <div class="row">
-                        <form class="form-email" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." novalidate="true">
+                        <form class="form-email" data-success="Thanks for your enquiry, we'll be in touch shortly." data-error="Please fill in all fields correctly." novalidate="true" data-form-type="nob">
                             <div class="col-sm-6 col-xs-12">
                                 <label>Your Name:</label>
                                 <input type="text" name="Name" class="validate-required">
