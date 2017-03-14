@@ -54,9 +54,9 @@
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="careers/developer.php">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>
