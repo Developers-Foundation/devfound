@@ -659,7 +659,7 @@ mr = (function (mr, $, window, document){
 
         if (thisForm.attr('data-form-type').indexOf("nob") > -1) {
 
-            var emailField = thisForm.find('.form-input-email');
+            var emailField = thisForm.find('.email');
             var nameField = thisForm.find('.form-input-name');
             var messageField = thisForm.find('.form-input-message');
 

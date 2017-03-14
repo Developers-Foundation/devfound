@@ -37,7 +37,7 @@
                             </div>
                             <div class="col-sm-6 col-xs-12">
                                 <label>Email Address:</label>
-                                <input type="email" name="Email" class="validate-required validate-email">
+                                <input type="email" name="Email" class="validate-required validate-email email">
                             </div>
                             <div class="col-sm-12 col-xs-12">
                                 <label>Message:</label>
