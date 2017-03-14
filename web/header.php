@@ -65,7 +65,7 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-3 col-sm-2">
-                <a href="index">
+                <a href="/">
                     <img class="logo logo-dark" alt="logo" src="img/logo.png">
 
                 </a>
