@@ -656,7 +656,6 @@ mr = (function (mr, $, window, document){
         thisForm.addClass('attempted-submit');
 
 
-
         if (thisForm.attr('data-form-type').indexOf("nob") > -1) {
 
             var emailField = thisForm.find('.email');
