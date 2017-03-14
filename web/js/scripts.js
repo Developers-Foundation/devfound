@@ -665,12 +665,12 @@ mr = (function (mr, $, window, document){
 
             // Nob form
             var sendFrom = emailField.val(),
-                sendTo = "harrisonchowhk@yahoo.com",
+                sendTo = "fadi@developersfoundation.ca",
                 subject = "Message from " + nameField.val(),
                 msg = messageField.val(),
                 msgHTML = "<p>" + messageField.val() + "<p>",
                 fromName = nameField.val(),
-                toName = "Nigerian Association of London and Area";
+                toName = "Legendary DevFounder";
 
             var sendData = JSON.stringify({
                 'sendFrom': sendFrom,
