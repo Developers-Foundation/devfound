@@ -16,7 +16,7 @@ $subject = $getPost['subject'];
 $to = new SendGrid\Email($getPost['toName'], $getPost['sendTo']);
 $content = new SendGrid\Content("text/plain", $getPost['msgHTML']);
 $mail = new SendGrid\Mail($from, $subject, $to, $content);
-$apiKey = getenv('SENDGRID_API_KEY');
+$apiKey = getenv('SENDGRID_API');
 $sg = new \SendGrid($apiKey);
 $response = $sg->client->mail()->send()->post($mail);
 echo json_encode(array('success' => true, 'message' => $response->statusCode() . " : " . $response->headers() . "\n" . $response->body()));
