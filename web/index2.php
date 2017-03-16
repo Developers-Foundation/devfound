@@ -44,8 +44,7 @@
                                         <i class="icon icon--lg icon-Brush "></i>
                                         <h4>Design</h4>
                                         <p>
-                                            Stack comes with integration for Mail Chimp and Campaign Monitor forms - ideal for modern marketing campaigns
-                                        </p>
+                                            Work in diverse teams with UX/UI mentors to find solutions to your clients' technical problems.                                        </p>
                                     </div>
                                     <!--end feature-->
                                 </div>
@@ -54,8 +53,7 @@
                                         <i class="icon icon--lg icon-Love-Window"></i>
                                         <h4>Build</h4>
                                         <p>
-                                            Including the premium Icons Mind icon kit, Stack features a highly diverse set of icons suitable for all purposes.
-                                        </p>
+                                            Create effective products tailored to each client's needs, through coding, prototyping, and constant contact with international organizations.                                        </p>
                                     </div>
                                     <!--end feature-->
                                 </div>
@@ -67,8 +65,7 @@
                                         -->
                                         <h4>Empower</h4>
                                         <p>
-                                            Combine blocks from a range of categories to build pages that are rich in visual style and interactivity
-                                        </p>
+                                            Give organizations and charities an essential platform for their growth, outreach and to effectively operate towards their cause.                                        </p>
 
                                     </div>
                                     <!--end feature-->
