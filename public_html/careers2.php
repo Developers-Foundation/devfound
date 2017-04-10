@@ -71,9 +71,9 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="careers/designer">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>
