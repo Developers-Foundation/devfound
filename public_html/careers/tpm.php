@@ -94,9 +94,9 @@ include_once ("header.php");
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                         <a href="developer">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>
@@ -107,9 +107,9 @@ include_once ("header.php");
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="designer">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>
