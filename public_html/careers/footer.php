@@ -58,8 +58,6 @@
                             <div class="col-sm-6">
                                             <span class="type--fine-print">©
                                                 <span class="update-year">2017</span> Developers' Foundation</span>
-                                <a class="type--fine-print" href="#">Privacy Policy</a>
-                                <a class="type--fine-print" href="#">Legal</a>
                             </div>
                             <div class="col-sm-6 text-right text-left-xs">
                                 <ul class="social-list list-inline list--hover">
