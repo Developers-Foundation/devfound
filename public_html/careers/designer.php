@@ -47,12 +47,14 @@ include_once ("header.php");
                     </div>
                     <div class="text-block">
                         <h5>Experience</h5>
-                        <p>
-                            Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
-                        </p>
-                        <p>
-                            Previous design experience (web/3d/2d).
-                        </p>
+                         <ul class="bullets">
+                             <li>
+                                Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
+                            </li>
+                            <li>
+                                Previous design experience (web/3d/2d).
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
