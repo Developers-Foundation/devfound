@@ -36,7 +36,7 @@
                                         <a href="students"> Membership </a>
                                     </li>
                                     <li>
-                                        <a href="career ">Careers</a>
+                                        <a href="careers">Careers</a>
                                     </li>
 <!--                                    <li>-->
 <!--                                        <a href="#">Student Blog</a>-->
