@@ -102,7 +102,7 @@ include_once ("header.php");
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="tpm.php">
+                        <a href="tpm">
                             View &amp; Apply
                         </a>
                     </div>
@@ -114,9 +114,9 @@ include_once ("header.php");
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="designer">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>
