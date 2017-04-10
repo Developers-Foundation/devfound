@@ -11,10 +11,7 @@
                                 <h6 class="type--uppercase">Developers' <br> Foundation</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#">About</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Press Kit</a>
+                                        <a href="../about">About</a>
                                     </li>
                                 </ul>
                             </div>
@@ -22,10 +19,10 @@
                                 <h6 class="type--uppercase">Organizations</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#">Services</a>
+                                        <a href="../organizations">Services</a>
                                     </li>
                                     <li>
-                                        <a href="#">Apply</a>
+                                        <a href="https://docs.google.com/forms/d/e/1FAIpQLScZ1PLOXP0cxEuzHZWWwyk3uxGU0_RQo3-dKu5ggwhj6FSWtA/viewform">Apply</a>
                                     </li>
                                 </ul>
                             </div>
@@ -33,13 +30,10 @@
                                 <h6 class="type--uppercase">Students</h6>
                                 <ul class="list--hover">
                                     <li>
-                                        <a href="#"> Membership </a>
+                                        <a href="../students"> Membership </a>
                                     </li>
                                     <li>
-                                        <a href="../career.php">Careers</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Student Blog</a>
+                                        <a href="../careers">Careers</a>
                                     </li>
 
                                 </ul>
