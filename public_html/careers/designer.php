@@ -27,12 +27,12 @@ include_once ("header.php");
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-md-7">
-                    <p>
+                    <h4>
                         Product Designers are the synthesis of design and development. They create the vision with Technical Product Manager (TPM) and translate it to the rest of the product team so they can get their hands dirty. 
-                    </p>
-                    <p>
+                    </h4>
+                    <h4>
                         Developers’ Foundation's mission is to scale impact, by solving real world issues from your own university campus. This means your product designs will be used by thousands of people, powered and launched by your product team and showcased to the world!
-                    </p>
+                    </h4>
                 </div>
 
                 <div class="col-sm-4 col-md-4">
