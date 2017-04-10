@@ -57,7 +57,12 @@ include_once ("header.php");
                             Ideally 2 &mdash; 4 years experience in an agency environment working in mult-tiered teams
                         </p>-->
                     </div>
-                    
+                    <div class="text-block">
+                        <h5>Employment Terms</h5>
+                        <p>
+                            Full time, on site at our HQ in Melbourne, AU
+                        </p>
+                    </div>
                 </div>
             </div>
             <!--end of row-->
