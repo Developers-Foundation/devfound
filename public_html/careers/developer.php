@@ -53,16 +53,8 @@ include_once ("header.php");
 <li>Working independently and in teams</li>
 <li>PHP and NodeJS will be beneficial</li>
                         </ul>
-                        <!--<p>
-                            Ideally 2 &mdash; 4 years experience in an agency environment working in mult-tiered teams
-                        </p>-->
                     </div>
-                    <div class="text-block">
-                        <h5>Employment Terms</h5>
-                        <p>
-                            Full time, on site at our HQ in Melbourne, AU
-                        </p>
-                    </div>
+                   
                 </div>
             </div>
             <!--end of row-->
