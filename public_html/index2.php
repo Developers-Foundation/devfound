@@ -7,7 +7,7 @@
         <div class="row">
             <div class="col-sm-8">
                 <h1>
-                    Design. Build.  Empower.
+                    Design. Build. Empower.
                 </h1>
                 <!--end of modal instance-->
             </div>
