@@ -40,18 +40,22 @@ include_once ("header.php");
                         <h5>Responsibilities</h5>
                         <ul class="bullets">
                         <li>Software design and innovation using technologies available</li>
-<li>Product development and implementation</li>
-<li>Coordination with design consultants</li>
-<li>Building the open source portfolio with VP tech of the chapters</li>
+                        <li>Product development and implementation</li>
+                        <li>Coordination with design consultants</li>
+                        <li>Building the open source portfolio with VP tech of the chapters</li>
+                        <li>Contribute to team humour</li>
                         </ul>
                     </div>
                     <div class="text-block">
                         <h5>Experience Preferred</h5>
                         <ul class="bullets">
                         <li>HTML, CSS and JS</li>
-<li>Git and Heroku is a great addition</li>
-<li>Working independently and in teams</li>
-<li>PHP and NodeJS will be beneficial</li>
+                        <li>Git and Heroku is a great addition</li>
+                        <li>Working independently and in teams</li>
+                        <li>PHP and NodeJS will be beneficial</li>
+                        <li>
+                            Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
+                        </li>
                         </ul>
                     </div>
                    

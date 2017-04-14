@@ -45,6 +45,7 @@ include_once ("header.php");
                             <li>Constantly ask "why" to solve the right problems</li>
                             <li> Define a product vision and strategy </li>
                             <li> Coordinate with designers, engineers and marketing </li>
+                            <li>Contribute to team humour</li>
                         </ul>
                     </div>
                     <div class="text-block">

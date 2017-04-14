@@ -6,7 +6,7 @@ include_once ("header.php");
         <div class="container">
             <div class="row">
                 <div class="col-sm-12">
-                    <h1>Finance</h1>
+                    <h1>Business Operations Associate</h1>
                     <ol class="breadcrumbs">
                         <li>
                             <a href="../index.php">Home</a>
@@ -14,7 +14,7 @@ include_once ("header.php");
                         <li>
                             <a href="../career.php">Careers</a>
                         </li>
-                        <li>Finance</li>
+                        <li>Business Operations Associate</li>
                     </ol>
                     <hr>
                 </div>
@@ -23,35 +23,41 @@ include_once ("header.php");
         </div>
         <!--end of container-->
     </section>
-
     <section class="switchable">
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-md-7">
-                    <h4>We need an experienced full-stack problem solver</h4>
                     <h4>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+                        Business Operations Associates are the glue and vision torch bearers of Developers’ Foundation. They create and execute new programs that fit the future they see.
                     </h4>
                     <h4>
-                        Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+                        Programs would range from internal to international ones bringing people under 1 cause together. You will also look inwards and tweak our operations so we could do our daily jobs better.</h4>
                     </h4>
                 </div>
+
                 <div class="col-sm-4 col-md-4">
                     <div class="text-block">
                         <h5>Responsibilities</h5>
                         <ul class="bullets">
-                            <li>Reporting to Project Manager</li>
-                            <li>Converting designs to code</li>
-                            <li>Writing SEO performant code</li>
-                            <li>Integrating React / Angular</li>
+                            <li>Constantly discover the needs of the Social Innovation market</li>
+                            <li>Conduct market research to educate the Social Innovation space</li>
+                            <li>Converting visions to programs</li>
                             <li>Contribute to team humour</li>
                         </ul>
                     </div>
                     <div class="text-block">
                         <h5>Experience</h5>
-                        <li>
-                            Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
-                        </li>
+                        <ul class="bullets">
+                            <li>
+                                Leadership experience.
+                            </li>
+                            <li>
+                                Business development experience is a bonus.
+                            </li>
+                            <li>
+                                Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!).
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -66,11 +72,10 @@ include_once ("header.php");
                     <div class="cta">
                         <h2>Sound like the job for you?</h2>
                         <p class="lead">
-                            Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
-                        </p>
-                        <a class="btn btn--primary type--uppercase" href="#">
+                            Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.                         </p>
+                        <a class="btn btn--primary type--uppercase" href="../apply">
                                     <span class="btn__text">
-                                        Drop your resumé here
+                                        Application
                                     </span>
                         </a>
                     </div>
@@ -88,12 +93,11 @@ include_once ("header.php");
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <span class="label">Fulltime</span>
-                        <h5>Front-end Designer</h5>
+                        <h5>Technical Product Manager</h5>
                         <p>
-                            Melbourne, AU
+                            Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <a href="tpm">
                             View &amp; Apply
                         </a>
                     </div>
@@ -101,24 +105,11 @@ include_once ("header.php");
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
-                        <span class="label bg--primary-2">Remote</span>
-                        <h5>Art Director</h5>
+                        <h5>Marketing</h5>
                         <p>
-                            San Francisco, USA
+                            Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="#">
-                            View &amp; Apply
-                        </a>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
-                        <h5>Senior Interface Designer</h5>
-                        <p>
-                            Toronto, CA
-                        </p>
-                        <a href="#">
+                        <a href="marketing">
                             View &amp; Apply
                         </a>
                     </div>

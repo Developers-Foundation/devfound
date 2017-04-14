@@ -1,29 +1,3 @@
-<!-- COVER -->
-<!--<section class="cover height-80 imagebg text-center" data-overlay="4">-->
-<!--    <div class="background-image-holder" style="background: url(&quot;img/cover1&quot;); opacity: 1;">-->
-<!--        <img alt="background" src="img/cover1.jpg">-->
-<!--    </div>-->
-<!--    <div class="container pos-vertical-center">-->
-<!--        <div class="row">-->
-<!--            <div class="col-sm-8">-->
-<!--                <h1>-->
-<!--                    Design. Build. Empower.-->
-<!--                </h1>-->
-<!--                <!--end of modal instance-->
-<!--            </div>-->
-<!--        </div>-->
-<!--        <!--end of row-->
-<!--    </div>-->
-<!--    <!--end of container-->
-<!--</section>-->
-<!---->
-<!---->
-<!---->
-
-
-
-
-
 
 <section class="cover height-80 imagebg switchable" data-overlay="8">
     <div class="background-image-holder">
@@ -61,19 +35,6 @@
     </div>
     <!--end of container-->
 </section>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- WHAT WE DO -->
 <section class="text-center">

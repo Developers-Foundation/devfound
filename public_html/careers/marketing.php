@@ -52,6 +52,7 @@ include_once ("header.php");
                             <li>Assure the consistent communication of brand image</li>
                             <li>Brainstorm and plan new, meaningful ways to use communication outlets</li>
                             <li>Monitor and analyze short-term and long-term progress and success of marketing activities</li>
+                            <li>Contribute to team humour</li>
                         </ul>
                     </div>
                     <div class="text-block">
@@ -64,6 +65,9 @@ include_once ("header.php");
                         </li>
                         <li>
                             Photography, videography and editing skills is a bonus.
+                        </li>
+                        <li>
+                            Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
                         </li>
                     </div>
                 </div>
