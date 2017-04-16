@@ -38,7 +38,7 @@ include_once ("header.php");
                         As part of Developer's Foundation marketing squad,
                         you will get to be part of shaping our brand,
                         creating meaningful connections with appropriate audiences,
-                        as well as planning and developing marketing strategies for an everchanging enviromnet.
+                        as well as planning and developing marketing strategies for an everchanging environment.
                     </h4>
                 </div>
 
