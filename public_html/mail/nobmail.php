@@ -19,4 +19,10 @@ $mail = new SendGrid\Mail($from, $subject, $to, $content);
 $apiKey = getenv('SENDGRID_API');
 $sg = new \SendGrid($apiKey);
 $response = $sg->client->mail()->send()->post($mail);
-echo json_encode(array('success' => true, 'message' => $response->statusCode() . " : " . $response->body()));
+
+ob_start();
+var_dump($response);
+$result = ob_get_clean();
+
+
+echo json_encode(array('success' => true, 'message' => $response->statusCode() . " : " . $result));
