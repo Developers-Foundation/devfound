@@ -71,9 +71,9 @@
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="careers/designer">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>
@@ -82,11 +82,11 @@
                     <div class="feature feature-1 boxed boxed--border">
                         <h5>Operations</h5>
                         <p>
-                            Western, Queen's & Toronto
+                            Western, Queen's, Toronto & HQ
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="careers/operations">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>

@@ -27,36 +27,34 @@ include_once ("header.php");
         <div class="container">
             <div class="row">
                 <div class="col-sm-8 col-md-7">
-                    <h4>We need an experienced full-stack problem solver</h4>
-                    <p>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
-                    </p>
-                    <p>
-                        Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
-                    </p>
+                    <h4>
+                        Product Designers are the synthesis of design and development. They create the vision with Technical Product Manager (TPM) and translate it to the rest of the product team so they can get their hands dirty. 
+                    </h4>
+                    <h4>
+                        Developers’ Foundation's mission is to scale impact, by solving real world issues from your own university campus. This means your product designs will be used by thousands of people, powered and launched by your product team and showcased to the world!
+                    </h4>
                 </div>
 
                 <div class="col-sm-4 col-md-4">
                     <div class="text-block">
                         <h5>Responsibilities</h5>
                         <ul class="bullets">
-                            <li>Reporting to Project Manager</li>
-                            <li>Converting designs to code</li>
-                            <li>Writing SEO performant code</li>
-                            <li>Integrating React / Angular</li>
+                            <li>Meet clients with team</li>
+                            <li>Curate the product vision</li>
+                            <li>Converting visions to design</li>
+                            <li>Contribute to team humour</li>
                         </ul>
                     </div>
                     <div class="text-block">
                         <h5>Experience</h5>
-                        <p>
-                            Ideally 2 &mdash; 4 years experience in an agency environment working in mult-tiered teams
-                        </p>
-                    </div>
-                    <div class="text-block">
-                        <h5>Employment Terms</h5>
-                        <p>
-                            Full time, on site at our HQ in Melbourne, AU
-                        </p>
+                         <ul class="bullets">
+                             <li>
+                                Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
+                            </li>
+                            <li>
+                                Previous design experience (web/3d/2d).
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -71,9 +69,8 @@ include_once ("header.php");
                     <div class="cta">
                         <h2>Sound like the job for you?</h2>
                         <p class="lead">
-                            Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.
-                        </p>
-                        <a class="btn btn--primary type--uppercase" href="#">
+Got what it takes to work with us? Great! Send us a link to your resumé or portfolio to become part of our talent pool.                         </p>
+                        <a class="btn btn--primary type--uppercase" href="../apply">
                                     <span class="btn__text">
                                         Application
                                     </span>
@@ -97,7 +94,7 @@ include_once ("header.php");
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <a href="#">
+                        <a href="tpm">
                             View &amp; Apply
                         </a>
                     </div>
@@ -109,7 +106,7 @@ include_once ("header.php");
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <a href="#">
+                        <a href="marketing">
                             View &amp; Apply
                         </a>
                     </div>

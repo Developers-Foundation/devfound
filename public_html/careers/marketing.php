@@ -38,7 +38,7 @@ include_once ("header.php");
                         As part of Developer's Foundation marketing squad,
                         you will get to be part of shaping our brand,
                         creating meaningful connections with appropriate audiences,
-                        as well as planning and developing marketing strategies for an everchanging enviromnet.
+                        as well as planning and developing marketing strategies for an everchanging environment.
                     </h4>
                 </div>
 
@@ -52,6 +52,7 @@ include_once ("header.php");
                             <li>Assure the consistent communication of brand image</li>
                             <li>Brainstorm and plan new, meaningful ways to use communication outlets</li>
                             <li>Monitor and analyze short-term and long-term progress and success of marketing activities</li>
+                            <li>Contribute to team humour</li>
                         </ul>
                     </div>
                     <div class="text-block">
@@ -64,6 +65,9 @@ include_once ("header.php");
                         </li>
                         <li>
                             Photography, videography and editing skills is a bonus.
+                        </li>
+                        <li>
+                            Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
                         </li>
                     </div>
                 </div>
@@ -102,6 +106,18 @@ include_once ("header.php");
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
+                        <h5>Product Designer</h5>
+                        <p>
+                            Western, Queen's & Toronto
+                        </p>
+                         <a href="designer">
+                            View &amp; Apply
+                        </a>
+                    </div>
+                    <!--end feature-->
+                </div>
+                <div class="col-sm-4">
+                    <div class="feature feature-1 boxed boxed--border">
 
                         <h5>Finance</h5>
                         <p>
@@ -109,18 +125,6 @@ include_once ("header.php");
 
                         </p>
                         <h6>
-                            Coming Soon
-                        </h6>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
-                        <h5>Product Designer</h5>
-                        <p>
-                            Western, Queen's & Toronto
-                        </p>
-                        <h6 >
                             Coming Soon
                         </h6>
                     </div>

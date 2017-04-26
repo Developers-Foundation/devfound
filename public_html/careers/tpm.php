@@ -45,6 +45,7 @@ include_once ("header.php");
                             <li>Constantly ask "why" to solve the right problems</li>
                             <li> Define a product vision and strategy </li>
                             <li> Coordinate with designers, engineers and marketing </li>
+                            <li>Contribute to team humour</li>
                         </ul>
                     </div>
                     <div class="text-block">
@@ -94,9 +95,9 @@ include_once ("header.php");
                         <p>
                             Western, Queen's, Toronto & HQ
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                         <a href="developer">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>
@@ -107,9 +108,9 @@ include_once ("header.php");
                         <p>
                             Western, Queen's & Toronto
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="designer">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>

@@ -1,15 +1,34 @@
-<!-- COVER -->
-<section class="cover height-80 imagebg text-center" data-overlay="4">
-    <div class="background-image-holder" style="background: url(&quot;img/cover1&quot;); opacity: 1;">
-        <img alt="background" src="img/cover1.jpg">
+
+<section class="cover height-80 imagebg switchable" data-overlay="8">
+    <div class="background-image-holder">
+        <img alt="background" src="img/landing-1.jpg" />
     </div>
     <div class="container pos-vertical-center">
         <div class="row">
-            <div class="col-sm-8">
-                <h1>
-                    Design. Build. Empower.
-                </h1>
-                <!--end of modal instance-->
+            <div class="col-md-5 col-sm-7">
+                <div class="switchable__text">
+                    <h1>
+                        Push the limits of code
+                    </h1>
+                    <p class="lead">
+                        Engage with real organizations, solve problems people depend on and enjoy the incredible experience.
+                    </p>
+                    <a class="btn btn--primary type--uppercase" href="/students">
+                                    <span class="btn__text">
+                                        Learn More
+                                    </span>
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6 col-sm-4 col-xs-12">
+                <div class="video-cover border--round box-shadow-wide">
+                    <div class="background-image-holder">
+                        <img alt="image" src="img/video_cover.png" />
+                    </div>
+                    <div class="video-play-icon"></div>
+                    <iframe src="https://www.youtube.com/embed/QhbY7UQRdT8?autoplay=1" allowfullscreen="allowfullscreen"></iframe>
+                </div>
+                <!--end video cover-->
             </div>
         </div>
         <!--end of row-->
