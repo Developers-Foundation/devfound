@@ -21,7 +21,7 @@ $sg = new \SendGrid($apiKey);
 $response = $sg->client->mail()->send()->post($mail);
 
 ob_start();
-var_dump($response);
+var_dump($getPost);
 $result = ob_get_clean();
 
 
