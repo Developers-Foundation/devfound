@@ -1,4 +1,4 @@
-$sites = array('https://developers.foundation/', 'https://developersfoundation.ca/');
+$sites = array('https://developers.foundation/', 'https://developersfoundation.ca/', 'https://shielded-shelf-89150.herokuapp.com/');
 // ----------------------------------------------------------------- //
 $handles = array();
 foreach ($sites as $i => $url) {
