@@ -8,7 +8,7 @@ include_once ("header.php");
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
-                        <h1>People</h1>
+                        <h1>VP People</h1>
                         <ol class="breadcrumbs">
                             <li>
                                 <a href="../">Home</a>
@@ -16,7 +16,7 @@ include_once ("header.php");
                             <li>
                                 <a href="../career">Careers</a>
                             </li>
-                            <li>People</li>
+                            <li>VP People</li>
                         </ol>
                         <hr>
                     </div>
