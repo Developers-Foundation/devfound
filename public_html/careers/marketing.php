@@ -70,6 +70,12 @@ include_once ("header.php");
                             Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
                         </li>
                     </div>
+                    <div class="text-block">
+                        <h5>Experience</h5>
+                        <li>
+                            Currently enrolled in a marketing/communications program(or similar).
+                        </li>
+                    </div>
                 </div>
             </div>
             <!--end of row-->
