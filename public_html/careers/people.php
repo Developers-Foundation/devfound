@@ -48,10 +48,10 @@ include_once ("header.php");
                         <div class="text-block">
                             <h5>Responsibilities</h5>
                             <ul class="bullets">
-                                <li>Develop a cross-training program that will create Jack-of-all-trades</li>
-                                <li>Lead functional heads in creating function-specific training</li>
-                                <li>Grow the entrepreneurial and team-oriented culture which is key to our success</li>
-                                <li>Develop a performance evaluation process that motivates and develops members</li>
+                                <li>Spearhead a strategic cross-training program</li>
+                                <li>Guide functional heads with training</li>
+                                <li>Grow our invaluable culture</li>
+                                <li>Launch a performance evaluation system</li>
                                 <li>Help DevFound attract top-tier talent</li>
                                 <li>Contribute to team humour</li>
                             </ul>
@@ -59,13 +59,13 @@ include_once ("header.php");
                         <div class="text-block">
                             <h5>Experience</h5>
                             <li>
-                                Currently enrolled in a business/marketing/communications program(or similar).
+                                Enrolled in a business/communications program.
                             </li>
                             <li>
-                                Previous marketing/operations experience is a bonus.
+                                Previous management experience is an asset.
                             </li>
                             <li>
-                                Ideally 2 &mdash; 4 years experience in humour (we'll ask about this!)
+                                2-4 years of experience in humour (un-negotiable)
                             </li>
                         </div>
                     </div>
@@ -117,14 +117,14 @@ include_once ("header.php");
                     <div class="col-sm-4">
                         <div class="feature feature-1 boxed boxed--border">
 
-                            <h5>Finance</h5>
+                            <h5>Marketing</h5>
                             <p>
                                 Western, Queen's & Toronto
 
                             </p>
-                            <h6>
-                                Coming Soon
-                            </h6>
+                            <a href="marketing">
+                                View &amp; Apply
+                            </a>
                         </div>
                         <!--end feature-->
                     </div>
