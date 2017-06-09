@@ -13,6 +13,9 @@
                                     <li>
                                         <a href="../about">About</a>
                                     </li>
+                                    <li>
+                                        <a href="">Start your Chapter!</a>
+                                    </li>
                                 </ul>
                             </div>
                             <div class="col-sm-6 col-md-3 col-xs-6">

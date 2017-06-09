@@ -31,16 +31,16 @@ include_once ("header.php");
                     <div class="col-sm-8 col-md-7">
 
                         <h4>
-                            Are you passionate about humanitarian outreach and empowering charities?
-                            Are you a creative mind with a knack for analytics and leadership skills?
-                            We're looking for enthusiastic, driven candidates to join our marketing team
-                            and help us tell our story, the students' and the charities'.
+                            Are you passionate about people, performance, and organizational culture?
+                            Do you have a knack for bringing the best out of those around you?
+
                         </h4>
                         <h4>
-                            As part of Developer's Foundation marketing squad,
-                            you will get to be part of shaping our brand,
-                            creating meaningful connections with appropriate audiences,
-                            as well as planning and developing marketing strategies for an everchanging environment.
+                            Here at Developers’ Foundation, we value our people more than anything else.
+                            We want to empower our people, develop their skills, and ensure they’re having fun.
+                            As we pursue rapid expansion, maintaining our culture and adapting our people management methodologies will be critical.
+                            If this challenge excites you, we invite you to apply for the VP People role.
+
                         </h4>
                     </div>
 

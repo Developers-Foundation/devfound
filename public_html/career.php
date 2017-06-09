@@ -95,6 +95,18 @@ include_once("header.php");
                 </div>
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
+                        <h5> VP People </h5>
+                        <p>
+                            HQ
+                        </p>
+                        <a href="careers/people">
+                            View &amp; Apply
+                        </a>
+                    </div>
+                    <!--end feature-->
+                </div>
+                <div class="col-sm-4">
+                    <div class="feature feature-1 boxed boxed--border">
                         <h5> Finance</h5>
                         <p>
                             Western & HQ
@@ -102,18 +114,6 @@ include_once("header.php");
                         <h6>
                             Coming Soon
                         </h6>
-                    </div>
-                    <!--end feature-->
-                </div>
-                <div class="col-sm-4">
-                    <div class="feature feature-1 boxed boxed--border">
-                        <h5> Data Analyst</h5>
-                        <p>
-                            HQ
-                        </p>
-                        <h6>
-                            Coming Soon
-                        <h6>
                     </div>
                     <!--end feature-->
                 </div>

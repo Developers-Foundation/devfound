@@ -125,14 +125,14 @@ include_once ("header.php");
                 <div class="col-sm-4">
                     <div class="feature feature-1 boxed boxed--border">
 
-                        <h5>Finance</h5>
+                        <h5>People</h5>
                         <p>
-                            Western, Queen's & Toronto
+                            HQ
 
                         </p>
-                        <h6>
-                            Coming Soon
-                        </h6>
+                        <a href="people">
+                            View &amp; Apply
+                        </a>
                     </div>
                     <!--end feature-->
                 </div>

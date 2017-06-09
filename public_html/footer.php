@@ -13,6 +13,9 @@
                                     <li>
                                         <a href="about">About</a>
                                     </li>
+                                    <li>
+                                        <a href="">Start your Chapter!</a>
+                                    </li>
 <!--                                    <li>-->
 <!--                                        <a href="#">Press Kit</a>-->
 <!--                                    </li>-->
